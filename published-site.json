@@ -1,7 +1,7 @@
 {
   "title": "Lumora Generated Landing Pages",
   "homepage_slug": "kidney-health-and-bladder-comfort",
-  "updated_at": "2026-05-06T09:27:04.282Z",
+  "updated_at": "2026-05-06T09:31:10.089Z",
   "repo": "roaseagles/product-pages",
   "pages_base_path": "/",
   "pages": [
@@ -14,8 +14,8 @@
       "title": "Kidney Health & Bladder Comfort",
       "product_name": "Lumora Pumpkin Seed Oil",
       "local_preview_path": "/?generated=24-0",
-      "url": "https://roaseagles.github.io/product-pages/kidney-health-and-bladder-comfort/",
-      "published_at": "2026-05-06T09:27:04.282Z"
+      "url": "/kidney-health-and-bladder-comfort/",
+      "published_at": "2026-05-06T09:31:10.089Z"
     },
     {
       "slug": "kidney-health-bladder-comfort",
