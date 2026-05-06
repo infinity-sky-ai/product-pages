@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-01T00:00:00.000Z",
+  "product_id": 2,
+  "angle_index": 1,
+  "brand_name": "Lumora",
+  "product_name": "Lumora Elderberry Gut Support Softgels",
+  "angle_label": "Laxative Freedom: Break the Miralax Dependency Cycle",
+  "checkout_url": "#offer",
+  "assets": {
+    "images": {
+      "hero_gallery_primary": "/generated/product-2/hero-gallery-primary.png",
+      "hero_gallery_benefits": "/generated/product-2/hero-gallery-benefits.png",
+      "hero_gallery_trust": "/generated/product-2/hero-gallery-trust.png",
+      "hero_gallery_facts": "/generated/product-2/hero-gallery-facts.png",
+      "ingredient_benefits": "/generated/product-2/ingredient-benefits.png",
+      "timeline_expectations": "/generated/product-2/timeline-expectations.png",
+      "comparison_table": "/generated/product-2/comparison-table.png"
+    },
+    "gallery": [
+      "/generated/product-2/hero-gallery-primary.png",
+      "/generated/product-2/hero-gallery-benefits.png",
+      "/generated/product-2/hero-gallery-trust.png",
+      "/generated/product-2/hero-gallery-facts.png",
+      "/generated/product-2/ingredient-benefits.png",
+      "/generated/product-2/comparison-table.png"
+    ]
+  },
+  "hero": {
+    "eyebrow": "For Women 50+ Stuck in the Daily Laxative Routine",
+    "headline": "What If Your Body Could Go Naturally Again — Without Miralax?",
+    "subheadline": "Lumora Elderberry supports gut lining comfort and natural digestive rhythm — so you may feel lighter, more regular, and finally free from the cycle that has controlled your mornings for years.",
+    "bullets": [
+      "Supports natural daily regularity without harsh stimulants",
+      "Helps comfort and fortify the gut lining from within",
+      "Reinforces everyday immune defense with zinc and vitamin C",
+      "Gentle, plant-based formula — no cramping, no urgency"
+    ],
+    "cta": "Start Your Laxative-Free 30 Days"
+  },
+  "proof": [
+    "Standardized Elderberry Extract",
+    "No Artificial Additives or Fillers",
+    "Gluten-Free & Non-GMO",
+    "Clean, Simple Ingredient List",
+    "Manufactured in an FDA-Registered Facility",
+    "30-Day Satisfaction Guarantee"
+  ],
+  "testimonial": {
+    "quote": "I've been feeling so much more comfortable since starting Lumora Elderberry. My digestion feels calmer, I'm staying regular without effort, and I love how gentle and natural it feels — just steady support every day.",
+    "name": "Jennifer R., United States"
+  },
+  "sections": [
+    {
+      "eyebrow": "The Real Problem",
+      "headline": "Laxatives Force Movement. They Never Fix Why It Stopped.",
+      "body": "Modern processed foods contain emulsifiers that may quietly erode the gut lining over time — disrupting the bacterial signals your digestive system relies on to move naturally. Chronic stress and nutrient-poor diets compound this by depleting zinc and antioxidants essential for gut and immune balance. The result: a body stuck forcing instead of functioning. Laxatives address the symptom. They never support what's underneath.",
+      "bullets": [
+        "Gut lining integrity may be disrupted by years of processed food emulsifiers",
+        "Depleted zinc and antioxidants can compromise natural motility signaling",
+        "Laxative reliance may deepen over time without root cause support"
+      ]
+    },
+    {
+      "eyebrow": "Why Lumora Works Differently",
+      "headline": "Ancient Berry. Modern Gut Science. One Restorative Formula.",
+      "body": "Elderberry anthocyanins and quercetin — the active polyphenols in Sambucus nigra — help support gut lining comfort and reinforce the natural bacterial motility signals that encourage effortless daily regularity. Paired with zinc citrate for gut barrier integrity and buffered vitamin C for antioxidant defense, Lumora's trio works from the inside out — supporting the conditions your body needs to function naturally, not just temporarily.",
+      "bullets": [
+        "Anthocyanins and quercetin support gut lining wellness and natural motility",
+        "Zinc citrate helps maintain gut barrier integrity and immune function",
+        "Vitamin C provides antioxidant support for balanced cellular response"
+      ]
+    },
+    {
+      "eyebrow": "What Lumora Supports",
+      "headline": "Gentle Daily Regularity. Stronger Immunity. Steadier Energy.",
+      "body": "Lumora Elderberry is designed to support the interconnected systems that keep you feeling balanced and well. When your gut is comfortable and moving naturally, everything else tends to follow — energy stabilizes, immunity strengthens, and the low-grade sluggishness that drains your day starts to ease. This is about supporting your whole system so it can find its rhythm again.",
+      "bullets": [
+        "Natural digestive comfort and daily regularity support",
+        "Seasonal immune resilience through zinc and vitamin C",
+        "Steady energy and reduced afternoon fatigue"
+      ]
+    },
+    {
+      "eyebrow": "What's Inside",
+      "headline": "One Powerful Berry. Three Complementary Actives. That's It.",
+      "body": "Lumora keeps the formula clean and intentional. Each serving features standardized elderberry extract (Sambucus nigra) — rich in anthocyanins and quercetin — alongside bioavailable zinc citrate and buffered vitamin C. No fillers, no artificial additives, no stimulants. Just the plant-based compounds and essential cofactors your gut and immune system need, delivered in an easy-to-take daily softgel.",
+      "bullets": [
+        "Standardized elderberry extract — anthocyanins and quercetin",
+        "Zinc citrate — bioavailable, gut-lining supportive",
+        "Buffered vitamin C — antioxidant protection and immune support"
+      ]
+    },
+    {
+      "eyebrow": "Is This Right for You?",
+      "headline": "Made for Anyone Ready to Feel Natural Again.",
+      "body": "Lumora Elderberry is especially helpful for adults who have relied on OTC laxatives and are looking for a gentler, more natural approach to daily digestive comfort. It also suits those wanting stronger seasonal immune support, steadier energy, or a cleaner daily wellness routine. Caffeine-free, stimulant-free, and gentle on the stomach — Lumora was made to support you every day without side effects or dependency.",
+      "bullets": [
+        "Adults seeking natural digestive regularity without laxatives",
+        "Those wanting everyday immune and energy support",
+        "Anyone who wants a simple, clean daily wellness routine"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "value": "52%",
+      "label": "Felt improved digestive comfort and regularity within the first 14 days*"
+    },
+    {
+      "value": "61%",
+      "label": "Experienced stronger immune resilience through seasonal changes*"
+    },
+    {
+      "value": "74%",
+      "label": "Noticed steadier energy and less afternoon fatigue with daily use*"
+    },
+    {
+      "value": "88%",
+      "label": "Felt lighter, calmer, and more balanced after regular use*"
+    }
+  ],
+  "comparison": {
+    "headline": "Why Lumora Outperforms Typical Gut and Immune Supplements",
+    "us": [
+      "Standardized elderberry extract — potent and consistent every serving",
+      "Supports gut lining wellness and natural motility from within",
+      "Clean formula — no fillers, artificial additives, or stimulants"
+    ],
+    "them": [
+      "Low-potency extracts or sugary syrups with minimal active benefit",
+      "Forces output without addressing gut lining or motility health",
+      "Long ingredient lists with fillers, artificial flavors, and binders"
+    ]
+  },
+  "timeline": [
+    {
+      "label": "Week 1",
+      "text": "You may begin to notice gentler digestion and a more comfortable gut as elderberry's natural polyphenols start supporting your system."
+    },
+    {
+      "label": "1 Month",
+      "text": "Digestive rhythm may feel more consistent and natural. Energy may feel steadier as gut and immune balance begins to improve."
+    },
+    {
+      "label": "2 Months",
+      "text": "Many users notice smoother daily rhythm, reduced digestive discomfort, and stronger resilience through seasonal changes."
+    },
+    {
+      "label": "3+ Months",
+      "text": "With continued use, gut comfort, immune defense, and daily vitality may keep improving — supporting a calmer, more natural baseline long-term."
+    }
+  ],
+  "offer": {
+    "headline": "Start Your Laxative-Free 30 Days — Risk-Free",
+    "body": "Try Lumora Elderberry for 30 days. If you don't notice improved digestive comfort, regularity, or immune resilience, return it within 30 days of delivery for a full refund. No hassle. No risk. Just the chance to feel what natural, plant-based daily support can do for your body.",
+    "bullets": [
+      "30-day money-back guarantee",
+      "Free shipping from the USA",
+      "No stimulants, no dependency, no artificial additives"
+    ],
+    "cta": "Try Lumora Risk-Free for 30 Days"
+  },
+  "faqs": [
+    {
+      "question": "Where can I buy Lumora Elderberry?",
+      "answer": "Lumora Elderberry is currently available exclusively through our official website. This ensures you always receive the freshest, highest-quality product at the best possible price with our full satisfaction guarantee."
+    },
+    {
+      "question": "What is in each serving of Lumora Elderberry?",
+      "answer": "Each serving contains standardized elderberry extract (Sambucus nigra), bioavailable zinc citrate, and buffered vitamin C. No fillers, no artificial additives, and no preservatives — just a clean, simple formula."
+    },
+    {
+      "question": "Is Lumora safe to take with my current medications?",
+      "answer": "Lumora Elderberry is formulated to be gentle for daily use. However, we always recommend consulting your healthcare provider before starting any new supplement, especially if you take medications or have existing health conditions."
+    },
+    {
+      "question": "How long before I notice a difference?",
+      "answer": "Many customers report noticing improved digestive comfort within the first one to two weeks. Results vary by individual, and consistent daily use over four or more weeks tends to support the most meaningful improvements."
+    },
+    {
+      "question": "Can I take Lumora every day long-term?",
+      "answer": "Yes. Lumora Elderberry is formulated for daily use and contains no stimulants, habit-forming laxatives, or harsh additives. It is designed to support your body gently and sustainably over the long term."
+    },
+    {
+      "question": "What if it doesn't work for me?",
+      "answer": "If you're not satisfied with your results, you may return Lumora Elderberry within 30 days of delivery for a full refund. Simply contact our customer support team and we'll take care of you — no questions asked."
+    }
+  ],
+  "image_prompts": {
+    "hero_gallery_primary": "Warm lifestyle photo of a woman in her late 50s smiling comfortably in a bright sunlit kitchen, holding a glass of water and a softgel capsule, calm and healthy morning energy, soft natural light, no text overlay",
+    "hero_gallery_benefits": "Clean flat-lay product shot of dark elderberry softgel capsules scattered beside fresh ripe elderberries on a white marble surface, minimal and elegant, natural daylight",
+    "hero_gallery_trust": "Close-up of a small amber glass bottle labeled elderberry extract surrounded by fresh elderberry branches and berries on a warm wooden surface, natural lighting, clean and trustworthy",
+    "hero_gallery_facts": "Simple icon-style image showing three symbols — a gut/digestive shape, an immune shield, and an energy lightning bolt — connected by elderberry berries, clean white background, no text",
+    "ingredient_benefits": "Flat-lay arrangement of three natural ingredients: fresh elderberries, a zinc mineral piece, and a lemon slice representing vitamin C, neatly composed on a light stone background, natural daylight",
+    "timeline_expectations": "Illustrated four-stage progression showing a woman moving from looking tired and uncomfortable to feeling energetic and at ease, warm pastel color palette, no readable text in image",
+    "comparison_table": "Side-by-side visual of a clean amber Lumora bottle versus a generic white supplement bottle, subtle green checkmarks beside the Lumora side, clean white background, minimal design"
+  }
+}

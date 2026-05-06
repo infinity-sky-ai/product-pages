@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-01T00:00:00Z",
+  "product_id": 4,
+  "angle_index": 1,
+  "brand_name": "Lumora",
+  "product_name": "Lumora Milk Thistle Detox",
+  "angle_label": "Morning Lightness",
+  "checkout_url": "#offer",
+  "assets": {
+    "images": {
+      "product_reference": "/generated/product-4/product-reference.png",
+      "hero_gallery_primary": "/generated/product-4/hero-gallery-primary.png",
+      "hero_gallery_benefits": "/generated/product-4/hero-gallery-benefits.png",
+      "hero_gallery_trust": "/generated/product-4/hero-gallery-trust.png",
+      "hero_gallery_facts": "/generated/product-4/hero-gallery-facts.png",
+      "ingredient_benefits": "/generated/product-4/ingredient-benefits.png",
+      "timeline_expectations": "/generated/product-4/timeline-expectations.png",
+      "comparison_table": "/generated/product-4/comparison-table.png"
+    },
+    "gallery": [
+      "/generated/product-4/hero-gallery-primary.png",
+      "/generated/product-4/hero-gallery-benefits.png",
+      "/generated/product-4/hero-gallery-trust.png",
+      "/generated/product-4/hero-gallery-facts.png",
+      "/generated/product-4/ingredient-benefits.png",
+      "/generated/product-4/comparison-table.png"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Wake Up Feeling Like Yourself Again",
+    "headline": "Start Every Morning Lighter, Clearer, and More Comfortable",
+    "subheadline": "Lumora Milk Thistle Detox supports your body's natural overnight reset so you can wake up feeling refreshed, less puffy, and ready for the day — with just two gentle daily capsules.",
+    "bullets": [
+      "Supports liver function and daily detox from within",
+      "Helps ease bloating and gut discomfort after meals",
+      "Promotes steady morning energy without stimulants",
+      "Clinically standardized 80% silymarin — no fillers"
+    ],
+    "cta": "Get Lumora — Feel Lighter"
+  },
+  "proof": [
+    "80% Silymarin Standardized",
+    "8 Active Botanicals",
+    "No Artificial Additives",
+    "Gluten Free & Non-GMO",
+    "Naturally Sourced Ingredients",
+    "FDA-Registered Facility"
+  ],
+  "testimonial": {
+    "quote": "I've felt so much lighter and more energized since starting this. The bloating after meals has eased up, my digestion feels smoother, and I have steady energy throughout the day instead of those afternoon crashes. My skin even looks clearer — it just feels like gentle, natural support for my whole system.",
+    "name": "Marlene F., United States"
+  },
+  "sections": [
+    {
+      "eyebrow": "Why You Feel Heavy Every Morning",
+      "headline": "Modern Life May Be Quietly Burdening Your Liver",
+      "body": "Today's lifestyle — processed foods, occasional alcohol, chronic stress, and environmental exposure — puts daily demands on the liver that many people never consider. When the liver is under pressure, the body's natural rhythm can fall behind, leaving you waking up feeling puffy, sluggish, or less refreshed. Supporting your liver's daily reset may be the missing piece behind how light and energized you feel each morning.",
+      "bullets": [
+        "Processed foods and stress can strain natural detox pathways",
+        "Liver burden may show up as bloating, fog, and fatigue",
+        "Most people never connect these feelings to liver wellness"
+      ]
+    },
+    {
+      "eyebrow": "The Science of Morning Reset",
+      "headline": "Nature's Most Studied Liver Herb — Standardized to Clinical Potency",
+      "body": "For centuries, milk thistle has been trusted as a natural liver supporter. Its active compound, silymarin — standardized to a clinical 80% threshold — has been researched for its ability to help protect liver cells from oxidative stress, support healthy liver enzyme levels, and promote the body's natural detox pathways. Paired with turmeric and inositol, each capsule is built to support your body's natural overnight recovery rhythm.",
+      "bullets": [
+        "80% silymarin — the benchmark for meaningful liver support",
+        "Turmeric helps calm oxidative stress from within",
+        "Inositol supports healthy metabolism and fat processing"
+      ]
+    },
+    {
+      "eyebrow": "What Lumora Supports",
+      "headline": "From Your First Sip of Coffee to Lights Out",
+      "body": "Lumora Milk Thistle Detox is designed to support your body throughout the full day. Daily use may help maintain comfortable digestion, promote steadier energy, support healthy blood sugar balance, and contribute to a clearer complexion over time. When your liver and gut work together in rhythm, the difference often shows — in how you feel, move, and look each morning.",
+      "bullets": [
+        "Lighter feeling and reduced bloating after meals",
+        "Steadier energy without the mid-afternoon dip",
+        "Clearer skin and calmer gut from the inside out",
+        "Supports natural detox and blood sugar balance"
+      ]
+    },
+    {
+      "eyebrow": "What's Inside Every Capsule",
+      "headline": "8 Active Botanicals. One Clean Daily Capsule.",
+      "body": "Lumora keeps the formula focused and potent — no fillers, no fluff. Each capsule is led by 80% standardized silymarin milk thistle, supported by inositol, turmeric (95% curcuminoids), vitamin C, pueraria extract, wormwood, clove, and L-methionine. Every ingredient was chosen to support liver wellness, gut comfort, and daily vitality in a single, easy-to-take serving.",
+      "bullets": [
+        "Milk Thistle (80% Silymarin) — liver function and cell protection",
+        "Inositol + Turmeric — blood sugar balance and antioxidant defense",
+        "Wormwood, Clove & L-Methionine — gentle gut cleansing and detox"
+      ]
+    },
+    {
+      "eyebrow": "Made for You If...",
+      "headline": "Designed for People Who Want to Feel Lighter Every Single Day",
+      "body": "Lumora Milk Thistle Detox fits well if you wake up feeling puffy or sluggish, want gentle daily liver and gut support, drink occasionally and want to give your liver a little extra care, or simply want a clean, natural addition to your morning routine. No stimulants, no caffeine, no harsh cleanses — just simple, plant-based daily support.",
+      "bullets": [
+        "Adults feeling bloated, foggy, or low energy in the morning",
+        "Anyone looking for clean, natural daily liver support",
+        "Health-conscious individuals wanting a simple wellness upgrade"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "value": "52%",
+      "label": "Felt noticeably less bloated within the first 14 days*"
+    },
+    {
+      "value": "67%",
+      "label": "Reported steadier daily energy and less afternoon sluggishness*"
+    },
+    {
+      "value": "74%",
+      "label": "Noticed smoother digestion and a lighter overall feeling*"
+    },
+    {
+      "value": "88%",
+      "label": "Felt more refreshed, focused, and balanced with regular use*"
+    }
+  ],
+  "comparison": {
+    "headline": "Why Lumora Outperforms Typical Liver Supplements",
+    "us": [
+      "80% Silymarin — clinical-threshold standardization",
+      "8 active botanicals covering liver, gut, and energy",
+      "No artificial additives, fillers, or underdosed blends"
+    ],
+    "them": [
+      "Low-potency silymarin with no standardized threshold",
+      "Single-ingredient formulas with limited support range",
+      "Artificial fillers and proprietary blends that hide dosages"
+    ]
+  },
+  "timeline": [
+    {
+      "label": "Week 1",
+      "text": "You may begin noticing your gut feeling clearer, with less bloating and smoother digestion as your body starts responding to daily milk thistle support."
+    },
+    {
+      "label": "1 Month",
+      "text": "Energy feels steadier, brain fog may begin to lift, and your digestive system may feel calmer and more consistent throughout the day."
+    },
+    {
+      "label": "2 Months",
+      "text": "Many users notice a lighter overall feeling and more consistent daily well-being as the liver receives ongoing daily support from regular use."
+    },
+    {
+      "label": "3 Months",
+      "text": "Some users report improved focus, greater daily comfort, and more consistent vitality as liver, gut, and metabolism work in better rhythm together."
+    }
+  ],
+  "offer": {
+    "headline": "Feel Lighter — Or We'll Make It Right",
+    "body": "If you don't notice reduced bloating, steadier energy, or a lighter feeling within 30 days of receiving your order, contact us for a full refund. No hassle. No harsh conditions. We want you to feel the difference — and if you don't, we'll take care of it.",
+    "bullets": [
+      "30-day satisfaction guarantee",
+      "Simple, no-hassle return process",
+      "Exclusively available through our official website"
+    ],
+    "cta": "Start Feeling Lighter Today"
+  },
+  "faqs": [
+    {
+      "question": "Where can I buy Lumora Milk Thistle Detox?",
+      "answer": "Lumora Milk Thistle Detox is available exclusively through our official website. This lets us ensure freshness, quality, and the best pricing — without middlemen or retail markup."
+    },
+    {
+      "question": "What ingredients are in each capsule?",
+      "answer": "Each capsule contains 8 active botanicals: milk thistle extract (80% silymarin), inositol, turmeric extract (95% curcuminoids), vitamin C, pueraria extract, wormwood, clove, and L-methionine. No fillers, no artificial additives."
+    },
+    {
+      "question": "Is it safe to take with my current medications?",
+      "answer": "Lumora Milk Thistle is formulated with natural, plant-based ingredients that are generally well-tolerated. If you take medications or have an existing health condition, consult your healthcare provider before starting any new supplement."
+    },
+    {
+      "question": "How and when should I take it?",
+      "answer": "Take two capsules daily with water, preferably with a meal. Consistent daily use delivers the best long-term support for your liver, digestion, and overall wellness."
+    },
+    {
+      "question": "How long until I start noticing a difference?",
+      "answer": "Many users notice less bloating and smoother digestion within the first week or two. Steadier energy and a lighter overall feeling often become more noticeable with consistent use over four to eight weeks."
+    },
+    {
+      "question": "What if it doesn't work for me?",
+      "answer": "If you're not satisfied within 30 days of receiving your order, contact our support team and we'll walk you through a simple return for a full refund. Your experience is our priority."
+    }
+  ],
+  "image_prompts": {
+    "hero_gallery_primary": "Product reference: use /generated/product-4/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Milk Thistle Detox in Lumora branding and the page palette. Expected package type: cylindrical supplement capsule bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 ecommerce supplement product graphic for Lumora Milk Thistle Detox.\n\nComposition:\n- Warm cream background with soft natural shadows, like sunlight through leaves.\n- Large front-facing product package on the left, occupying about 48% of the canvas height. Match the actual product type from the reference: cylindrical supplement capsule bottle/container.\n- Product label should read: Lumora, Milk Thistle Detox, two daily capsules.\n- On the right, place three vertically stacked benefit callouts with rust line icons.\n- Callout 1: Supports liver function and daily detox from within\n- Callout 2: Helps ease bloating and gut discomfort after meals\n- Callout 3: Promotes steady morning energy without stimulants\n- Add small product-related ingredient visuals near the package only if relevant.\n\nStyle:\n- Match a warm natural wellness brand.\n- Rust/burnt-orange typography and icons.\n- Clean, premium, minimal, not clinical.\n- All text must be spelled correctly and readable.\n\nDo not include people, videos, review screenshots, watermarks, medical cure claims, or FDA-approved claims.",
+    "hero_gallery_benefits": "Product reference: use /generated/product-4/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Milk Thistle Detox in Lumora branding and the page palette. Expected package type: cylindrical supplement capsule bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 benefit explainer graphic for Lumora Milk Thistle Detox.\n\nComposition:\n- Rich warm brown/rust gradient background.\n- Big headline at top: \"Start Every Morning Lighter, Clearer, and More Comfortable\"\n- Subheadline below: \"Lumora Milk Thistle Detox supports your body's natural overnight reset so you can wake up feeling refreshed, less puffy...\"\n- Three large cream line icons across the middle with labels:\n  1. Supports liver function and daily detox from within\n  2. Helps ease bloating and gut discomfort after meals\n  3. Promotes steady morning energy without stimulants\n- Product package partially visible at the bottom, centered, matching the reference package type: cylindrical supplement capsule bottle/container.\n\nStyle:\n- Same visual language as the hero gallery: rust, cream, dark brown.\n- High contrast, big type, simple iconography.\n- Premium supplement advertorial, not a social-media meme.\n\nDo not include people or testimonial quotes.",
+    "hero_gallery_trust": "Product reference: use /generated/product-4/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Milk Thistle Detox in Lumora branding and the page palette. Expected package type: cylindrical supplement capsule bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 trust and quality graphic for Lumora Milk Thistle Detox.\n\nComposition:\n- Warm brown/rust background.\n- Large headline: \"Why Trust Lumora\"\n- Four outlined cream cards in a row or grid, each with one simple icon and label:\n  1. 80% Silymarin Standardized\n  2. 8 Active Botanicals\n  3. No Artificial Additives\n  4. Gluten Free & Non-GMO\n- Below the cards, add 3-5 short trust bullets using small badge/check icons:\n  - Gluten Free & Non-GMO\n  - Naturally Sourced Ingredients\n  - FDA-Registered Facility\n- Optional: small product package at bottom center, matching the reference package type: cylindrical supplement capsule bottle/container.\n\nStyle:\n- Clean supplement trust graphic.\n- Cream icons/text on rust background.\n- Balanced spacing, no clutter.\n\nDo not invent certifications. Only include a certification if it is present in the product data.",
+    "hero_gallery_facts": "Product reference: use /generated/product-4/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Milk Thistle Detox in Lumora branding and the page palette. Expected package type: cylindrical supplement capsule bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 supplement facts and usage graphic for Lumora Milk Thistle Detox.\n\nComposition:\n- Rust background with subtle ingredient line art.\n- Top headline: \"Feel Lighter — Or We'll Make It Right\"\n- Large white supplement-facts style panel in the upper-middle.\n- Include only product-row facts:\n  - Serving size: two daily capsules\n  - Servings per container: \n  - Main active ingredient(s): 8 Active Ingredients. Endless Liver Support.\nUnlike many supplements with watered-down doses and filler-heavy blends, E...\n  - Other ingredients: omit exact amounts if not provided by the row\n- Bottom section with two or three usage callouts:\n  - Supports liver function and daily detox from within\n  - Helps ease bloating and gut discomfort after meals\n  - Promotes steady morning energy without stimulants\n\nStyle:\n- Keep the facts panel realistic and readable.\n- Use white, rust, and black.\n- Clean compliance-friendly supplement label look.\n\nDo not invent ingredient amounts. If exact amounts are missing, omit the amount rather than guessing.",
+    "ingredient_benefits": "Product reference: use /generated/product-4/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Milk Thistle Detox in Lumora branding and the page palette. Expected package type: cylindrical supplement capsule bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 ingredient benefits graphic for Lumora Milk Thistle Detox.\n\nComposition:\n- Solid rust background with rounded corners feel.\n- Left column: five white circular line icons stacked vertically.\n- Right of each icon: one large white benefit/ingredient line.\n- Text lines:\n  1. Milk Thistle (80% Silymarin) — liver function and cell protection\n  2. Inositol + Turmeric — blood sugar balance and antioxidant defense\n  3. Wormwood, Clove & L-Methionine — gentle gut cleansing and detox\n  4. Clinically standardized 80% silymarin — no fillers\n  5. Daily support\n- Bottom-right: realistic glossy capsules, powder scoop, drops, gummies, or product-relevant supplement form matching this product type: cylindrical supplement capsule bottle/container.\n\nStyle:\n- Match the Lumora orange ingredient card layout.\n- Large readable white typography.\n- Simple white line icons.\n- High contrast and polished ecommerce graphic.\n\nDo not include a person or testimonial.",
+    "timeline_expectations": "Create a clean timeline infographic for Lumora Milk Thistle Detox.\n\nCanvas: 2000 x 1250 px.\n\nTitle at top:\n\"What You Might Expect from Daily Use of Lumora\"\n\nLayout:\n- White or very light cream background.\n- Vertical dotted rust line down the center.\n- Six rust circular milestone nodes.\n- Alternating left/right milestone labels and short text cards.\n- Use small calendar icons next to each milestone label.\n\nMilestones:\n1. Week 1 — You may begin noticing your gut feeling clearer, with less bloating and smoother digestion as your body starts respondi...\n2. 1 Month — Energy feels steadier, brain fog may begin to lift, and your digestive system may feel calmer and more consistent throu...\n3. 2 Months — Many users notice a lighter overall feeling and more consistent daily well-being as the liver receives ongoing daily su...\n4. 3 Months — Some users report improved focus, greater daily comfort, and more consistent vitality as liver, gut, and metabolism wor...\n5. 3 Months — Some users report improved focus, greater daily comfort, and more consistent vitality as liver, gut, and metabolism wor...\n6. 3 Months — Some users report improved focus, greater daily comfort, and more consistent vitality as liver, gut, and metabolism wor...\n\nStyle:\n- Minimal, clean, mostly white space.\n- Rust milestone nodes and card borders.\n- Text must be readable and not overcrowded.\n- Keep each card to 1-2 short sentences.\n\nDo not include product photos, people, or disease/cure claims.",
+    "comparison_table": "Product reference: use /generated/product-4/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Milk Thistle Detox in Lumora branding and the page palette. Expected package type: cylindrical supplement capsule bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a vertical 1600 x 2000 comparison table infographic.\n\nTitle:\n\"Why Lumora Milk Thistle Outperforms Typical Milk Thistle Supplements\"\n\nLayout:\n- Warm cream background.\n- Centered comparison table with thin rust border.\n- Three columns:\n  Left: Lumora with product package image matching the reference package type: cylindrical supplement capsule bottle/container.\n  Center: dark rust column titled \"Which delivers more real benefits?\"\n  Right: \"Typical Milk Thistle Supplements\" with a generic plain white bottle.\n- Add a circular \"VS\" badge near the top center.\n- Rows:\n  1. 80% Silymarin — clinical-threshold standardization\n  2. 8 active botanicals covering liver, gut, and energy\n  3. No artificial additives, fillers, or underdosed blends\n  4. Clinically standardized 80% silymarin — no fillers\n  5. Daily support\n  6. Daily support\n  7. Daily support\n  8. Daily support\n  9. Low-potency silymarin with no standardized threshold\n  10. Single-ingredient formulas with limited support range\n  11. Artificial fillers and proprietary blends that hide dosages\n- Use rust check icons for Lumora advantages and red X icons for typical supplement disadvantages.\n- For negative rows, Lumora should show red X and typical supplements should show rust check only if the statement is about a typical drawback.\n\nStyle:\n- Match a high-converting supplement comparison graphic.\n- Rust center column, cream outer columns, clean grid lines.\n- All row text must fit and be readable.\n\nDo not use a real competitor brand name. Use only generic \"Typical Milk Thistle Supplements.\""
+  },
+  "image_generation": {
+    "status": "skipped",
+    "message": "OPENAI_API_KEY is not set, so image assets were not generated."
+  }
+}

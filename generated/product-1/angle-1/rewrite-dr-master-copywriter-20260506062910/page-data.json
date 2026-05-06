@@ -1,0 +1,249 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-06T06:29:10.290Z",
+  "product_id": 1,
+  "angle_index": 1,
+  "brand_name": "Lumora",
+  "product_name": "Lumora Pumpkin Seed Oil Softgels",
+  "angle_label": "Morning Lightness",
+  "checkout_url": "https://lumora-us.com/cart",
+  "assets": {
+    "images": {
+      "product_reference": "/generated/product-1/product-reference.png",
+      "hero_gallery_primary": "/generated/product-1/hero-gallery-primary.png",
+      "hero_gallery_benefits": "/generated/product-1/hero-gallery-benefits.png",
+      "hero_gallery_trust": "/generated/product-1/hero-gallery-trust.png",
+      "hero_gallery_facts": "/generated/product-1/hero-gallery-facts.png",
+      "ingredient_benefits": "/generated/product-1/ingredient-benefits.png",
+      "timeline_expectations": "/generated/product-1/timeline-expectations.png",
+      "comparison_table": "/generated/product-1/comparison-table.png",
+      "comparison_table_mobile": "/generated/product-1/comparison-table-mobile.png",
+      "product_photo": "/generated/product-1/lumora-product-photo.png"
+    },
+    "gallery": [
+      "/generated/product-1/hero-gallery-primary.png",
+      "/generated/product-1/hero-gallery-benefits.png",
+      "/generated/product-1/hero-gallery-trust.png",
+      "/generated/product-1/hero-gallery-facts.png",
+      "/generated/product-1/ingredient-benefits.png",
+      "/generated/product-1/comparison-table.png"
+    ]
+  },
+  "hero": {
+    "eyebrow": "If You Wake Up Heavy or Puffy Every Morning — It's Not Your Fault",
+    "headline": "Your Body Resets Overnight. Two Daily Softgels Help Make Sure It Actually Does.",
+    "subheadline": "Lumora delivers 2,000mg of cold-pressed pumpkin seed oil with saw palmetto — supporting healthy kidney function and bladder comfort from within, so your natural overnight rhythm can finally do its job.",
+    "bullets": [
+      "Supports calmer, more comfortable bladder function through the night",
+      "Helps maintain healthy kidney wellness — naturally, from within",
+      "Beta-sitosterol and zinc promote thicker, fuller-looking hair",
+      "Supports steady morning energy so you wake up ready, not heavy"
+    ],
+    "cta": "Get My Bottle Now"
+  },
+  "proof": [
+    "Cold-Pressed Pumpkin Seed Oil",
+    "No Artificial Additives",
+    "Gluten Free & Non-GMO",
+    "No Fillers or Preservatives",
+    "FDA-Registered Facility",
+    "Backed by Centuries of Traditional Use"
+  ],
+  "testimonial": {
+    "quote": "My bladder feels so much calmer, I'm sleeping through the night again, and my hair feels thicker than it has in years. I love how natural it feels — just pure support for my body.",
+    "name": "Carol F., United States"
+  },
+  "sections": [
+    {
+      "eyebrow": "Why You Feel This Way",
+      "headline": "It's Not Your Fault Your Mornings Feel Off — Here's What's Actually Happening",
+      "body": "You set the alarm for 6:30 — but at 3 a.m. you're already awake, dragging yourself to the bathroom, lying back down, staring at the ceiling until the alarm wins. Your feet hit the cold floor and the day already feels half-gone. You feel heavier than you used to. Puffier. Less like yourself. You've tried drinking more water, cutting late drinks, going to bed earlier. Nothing quite sticks. This is not your fault. Today's diet, chronic stress, and environmental load quietly burden your body's natural kidney and urinary rhythm — and most people simply aren't getting enough of the plant compounds that help it bounce back. When that system falls behind, it shows up everywhere: morning heaviness, energy that stalls before breakfast, nights that never fully restore you.",
+      "bullets": [
+        "Dietary gaps may limit your body's natural kidney filtration support",
+        "Stress and environmental toxins can burden the urinary system over time",
+        "Declining plant compound intake may affect hormonal balance, energy, and hair"
+      ]
+    },
+    {
+      "eyebrow": "The Ancient Seed Science",
+      "headline": "Most Bladder Supplements Chase the Symptom. Lumora Supports the Source.",
+      "body": "Most urinary supplements reach for a generic herbal blend and call it a day — targeting the discomfort, not the underlying hormonal and cellular imbalance that drives it. Pumpkin seed oil works differently. Used for generations as 'Nature's Bladder Guardian,' it supports the root: healthy hormonal balance and urinary rhythm from within. Its key phytosterol — beta-sitosterol — has been studied for its ability to help support healthy urinary flow and comfort. Paired with zinc for cellular resilience and omega 3-6-9 fatty acids for a healthy inflammatory response, these natural compounds work together to support your body's balance the way nature intended — no stimulants, no synthetic shortcuts.",
+      "bullets": [
+        "Beta-sitosterol: supports healthy urinary comfort and hormonal balance",
+        "Zinc: promotes hair follicle strength and natural cellular resilience",
+        "Omega 3-6-9 fatty acids: support a healthy inflammatory response from within"
+      ]
+    },
+    {
+      "eyebrow": "What Lumora Supports",
+      "headline": "Support One System. Feel the Difference Everywhere.",
+      "body": "When your body's natural kidney and urinary rhythm is supported, the downstream effects are real. Your bladder stays calmer through the night — so the ceiling at 3 a.m. stops winning. Your energy starts the morning with you instead of against you. Your hair looks thicker. Your mornings feel lighter. Lumora was built around that chain reaction — supporting the foundational systems that shape how you feel from the moment your feet hit the floor.",
+      "bullets": [
+        "Calmer bladder and more comfortable urinary flow — day and night",
+        "Steadier morning energy and fewer nighttime disruptions",
+        "Thicker, fuller-looking hair supported by natural hormonal balance"
+      ]
+    },
+    {
+      "eyebrow": "What's Inside",
+      "headline": "One Ingredient. Cold-Pressed. Nothing Hidden.",
+      "body": "Lumora keeps it clean: 2,000mg of cold-pressed pumpkin seed oil (Cucurbita pepo) with saw palmetto in every serving — no fillers, no synthetic additives, no preservatives. Not a ten-ingredient blend you need a chemistry degree to decode. Just a pure, plant-based softgel delivering naturally occurring beta-sitosterol, zinc, and omega fatty acids exactly as nature built them. Gentle on the stomach. Easy to take with your morning coffee. Working quietly from the inside out.",
+      "bullets": [
+        "2,000mg cold-pressed pumpkin seed oil (Cucurbita pepo) with saw palmetto",
+        "Naturally rich in beta-sitosterol, zinc & omega 3-6-9 fatty acids",
+        "No artificial additives — gluten free, non-GMO, and no preservatives"
+      ]
+    },
+    {
+      "eyebrow": "Is Lumora Right for You?",
+      "headline": "If This Sounds Like Your Morning — This Was Made for You",
+      "body": "You're tired of waking up heavy — tired of nights that don't restore you, tired of feeling like your body is working against you before the day even starts. Lumora is especially helpful for adults dealing with urinary discomfort, low morning energy, or the puffiness that just won't quit. If you want natural kidney and bladder support without caffeine, stimulants, or a harsh cleanse, this is the simple daily step that may help you feel lighter, calmer, and more like yourself again — two softgels, daily, and nothing else to figure out.",
+      "bullets": [
+        "Adults who wake up heavy, puffy, or less restored than they want to feel",
+        "Anyone seeking natural urinary and kidney wellness support daily",
+        "Health-conscious individuals who want one clean, simple daily supplement"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "value": "49%",
+      "label": "Noticed improved urinary comfort & bladder wellness within 14 days*"
+    },
+    {
+      "value": "56%",
+      "label": "Reported steadier energy and fewer nighttime disruptions*"
+    },
+    {
+      "value": "72%",
+      "label": "Noticed improvements in hair thickness and overall appearance*"
+    },
+    {
+      "value": "86%",
+      "label": "Felt clearer, lighter, and more balanced with regular use*"
+    }
+  ],
+  "comparison": {
+    "headline": "Why Lumora Outperforms Typical Kidney & Bladder Supplements",
+    "us": [
+      "2,000mg cold-pressed pumpkin seed oil — no fillers, no shortcuts",
+      "Supports kidney, bladder, hair & morning energy from one clean source",
+      "Manufactured in an FDA-registered facility, no artificial additives"
+    ],
+    "them": [
+      "Artificial ingredients, binders, and low-quality fillers",
+      "Token doses with low potency and poor absorption",
+      "Often poorly sourced or sitting in warehouses past peak freshness"
+    ]
+  },
+  "timeline": [
+    {
+      "label": "Week 1",
+      "text": "You may start to notice calmer urinary function — fewer trips at 3 a.m., a little less heaviness when your feet hit the floor. Your body is beginning to respond to pumpkin seed oil's natural compounds."
+    },
+    {
+      "label": "Month 1",
+      "text": "Morning energy may feel noticeably steadier. Your bladder and urinary system may start responding more comfortably to the demands of daily life — and you may find yourself sleeping through more nights than before."
+    },
+    {
+      "label": "Month 2",
+      "text": "Many users begin to notice thicker-looking hair, smoother urinary comfort, and a general sense of feeling lighter and more balanced throughout the day as natural compounds continue building from within."
+    },
+    {
+      "label": "Month 3",
+      "text": "Some users report waking up genuinely refreshed — greater daily confidence, steadier vitality, and a sense of ease they haven't felt in years. Lighter mornings. Calmer nights. More like yourself."
+    }
+  ],
+  "offer": {
+    "headline": "Feel Lighter, Calmer & More Like Yourself — or It's Free",
+    "body": "Take Lumora daily for 30 days. If you don't notice calmer urinary function, steadier morning energy, or a greater sense of ease and balance from within — contact us. One email is all it takes and we'll refund every cent. No complicated return process. No box to ship back. The risk is on us, not on you.",
+    "bullets": [
+      "30-day guarantee — notice the difference or we refund every cent",
+      "One email to claim — no hoops, no hassle, no return required",
+      "No artificial additives, no stimulants, nothing to lose"
+    ],
+    "cta": "Claim My Risk-Free Bottle"
+  },
+  "faqs": [
+    {
+      "question": "How long before I actually feel a difference?",
+      "answer": "Many customers report noticing calmer urinary function, fewer nighttime disruptions, and steadier morning energy within the first one to two weeks. Consistent daily use builds the best long-term results — most customers feel the clearest shift between weeks two and four."
+    },
+    {
+      "question": "I've tried other bladder supplements before and nothing worked. Why would this be different?",
+      "answer": "Most bladder supplements offer a generic herbal blend at a token dose — they chase the symptom and skip the source. Lumora delivers 2,000mg of cold-pressed pumpkin seed oil with saw palmetto, targeting the hormonal and cellular balance that drives urinary comfort from within. If you've been burned before, we understand. That's exactly why every order is backed by a 30-day money-back guarantee. Try it. If it doesn't work for you, you owe us nothing."
+    },
+    {
+      "question": "Is Lumora safe to take with my current medications?",
+      "answer": "Lumora is formulated with natural, plant-based ingredients generally considered safe for daily use. If you're taking medications or managing a health condition, it's always best to check with your healthcare provider before adding any new supplement to your routine."
+    },
+    {
+      "question": "How many softgels should I take — and when?",
+      "answer": "Take 2 softgels daily with food. Morning or evening both work — consistency matters more than timing. For additional support, you may take up to 3 softgels per day as needed. Most customers see the best results with daily use over 30 to 90 days."
+    },
+    {
+      "question": "What exactly is your money-back guarantee?",
+      "answer": "If you don't notice improved urinary comfort, steadier energy, or a greater sense of balance within 30 days of receiving your order, contact us. One email — that's all it takes. We'll process your refund with no complicated return process and no questions asked. You either feel the difference or you pay nothing."
+    },
+    {
+      "question": "What makes Lumora different from other pumpkin seed oil supplements?",
+      "answer": "Lumora uses 2,000mg of cold-pressed pumpkin seed oil (Cucurbita pepo) with saw palmetto — no fillers, no binders, no artificial additives. It's manufactured in an FDA-registered facility and built around one clean, traceable ingredient rather than a padded multi-herb blend. Simple, potent, and designed to actually work."
+    }
+  ],
+  "image_prompts": {
+    "hero_gallery_primary": "Product reference: use /generated/product-1/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil Softgels in Lumora branding and the page palette. Expected package type: supplement softgel bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 ecommerce supplement product graphic for Lumora Pumpkin Seed Oil Softgels.\n\nComposition:\n- Warm cream background with soft natural shadows, like sunlight through leaves.\n- Large front-facing product package on the left, occupying about 48% of the canvas height. Match the actual product type from the reference: supplement softgel bottle/container.\n- Product label should read: Lumora, Pumpkin Seed Oil Softgels, two daily softgels.\n- On the right, place three vertically stacked benefit callouts with rust line icons.\n- Callout 1: Supports comfortable, calm urinary flow daily\n- Callout 2: Helps maintain healthy kidney function naturally\n- Callout 3: Promotes thicker, fuller-looking hair from within\n- Add small product-related ingredient visuals near the package only if relevant.\n\nStyle:\n- Match a warm natural wellness brand.\n- Rust/burnt-orange typography and icons.\n- Clean, premium, minimal, not clinical.\n- All text must be spelled correctly and readable.\n\nDo not include people, videos, review screenshots, watermarks, medical cure claims, or FDA-approved claims.",
+    "hero_gallery_benefits": "Product reference: use /generated/product-1/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil Softgels in Lumora branding and the page palette. Expected package type: supplement softgel bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 benefit explainer graphic for Lumora Pumpkin Seed Oil Softgels.\n\nComposition:\n- Rich warm brown/rust gradient background.\n- Big headline at top: \"Support Your Body's Natural Overnight Reset — So You Rise Feeling Lig...\"\n- Subheadline below: \"Lumora Pumpkin Seed Oil Softgels are crafted to support kidney wellness and bladder comfort from within — helping your...\"\n- Three large cream line icons across the middle with labels:\n  1. Supports comfortable, calm urinary flow daily\n  2. Helps maintain healthy kidney function naturally\n  3. Promotes thicker, fuller-looking hair from within\n- Product package partially visible at the bottom, centered, matching the reference package type: supplement softgel bottle/container.\n\nStyle:\n- Same visual language as the hero gallery: rust, cream, dark brown.\n- High contrast, big type, simple iconography.\n- Premium supplement advertorial, not a social-media meme.\n\nDo not include people or testimonial quotes.",
+    "hero_gallery_trust": "Product reference: use /generated/product-1/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil Softgels in Lumora branding and the page palette. Expected package type: supplement softgel bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 trust and quality graphic for Lumora Pumpkin Seed Oil Softgels.\n\nComposition:\n- Warm brown/rust background.\n- Large headline: \"Why Trust Lumora\"\n- Four outlined cream cards in a row or grid, each with one simple icon and label:\n  1. Cold-Pressed Pumpkin Seed Oil\n  2. No Artificial Additives\n  3. Gluten Free & Non-GMO\n  4. No Fillers or Preservatives\n- Below the cards, add 3-5 short trust bullets using small badge/check icons:\n  - No Fillers or Preservatives\n  - FDA-Registered Facility\n  - Backed by Centuries of Traditional Use\n- Optional: small product package at bottom center, matching the reference package type: supplement softgel bottle/container.\n\nStyle:\n- Clean supplement trust graphic.\n- Cream icons/text on rust background.\n- Balanced spacing, no clutter.\n\nDo not invent certifications. Only include a certification if it is present in the product data.",
+    "hero_gallery_facts": "Product reference: use /generated/product-1/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil Softgels in Lumora branding and the page palette. Expected package type: supplement softgel bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 supplement facts and usage graphic for Lumora Pumpkin Seed Oil Softgels.\n\nComposition:\n- Rust background with subtle ingredient line art.\n- Top headline: \"Feel Better or It's Free\"\n- Large white supplement-facts style panel in the upper-middle.\n- Include only product-row facts:\n  - Serving size: two daily softgels\n  - Servings per container: \n  - Main active ingredient(s): One Ingredient. Endless Kidney & Bladder Support.\nUnlike many supplements with long, complicated ingredient lists, Ever...\n  - Other ingredients: omit exact amounts if not provided by the row\n- Bottom section with two or three usage callouts:\n  - Supports comfortable, calm urinary flow daily\n  - Helps maintain healthy kidney function naturally\n  - Promotes thicker, fuller-looking hair from within\n\nStyle:\n- Keep the facts panel realistic and readable.\n- Use white, rust, and black.\n- Clean compliance-friendly supplement label look.\n\nDo not invent ingredient amounts. If exact amounts are missing, omit the amount rather than guessing.",
+    "ingredient_benefits": "Product reference: use /generated/product-1/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil Softgels in Lumora branding and the page palette. Expected package type: supplement softgel bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 ingredient benefits graphic for Lumora Pumpkin Seed Oil Softgels.\n\nComposition:\n- Solid rust background with rounded corners feel.\n- Left column: five white circular line icons stacked vertically.\n- Right of each icon: one large white benefit/ingredient line.\n- Text lines:\n  1. Cold-pressed pumpkin seed oil (Cucurbita pepo) with saw palmetto\n  2. Naturally rich in beta-sitosterol, zinc & omega 3-6-9 fatty acids\n  3. No artificial additives — gluten free and non-GMO\n  4. Supports steady energy and everyday vitality\n  5. Daily support\n- Bottom-right: realistic glossy capsules, powder scoop, drops, gummies, or product-relevant supplement form matching this product type: supplement softgel bottle/container.\n\nStyle:\n- Match the Lumora orange ingredient card layout.\n- Large readable white typography.\n- Simple white line icons.\n- High contrast and polished ecommerce graphic.\n\nDo not include a person or testimonial.",
+    "timeline_expectations": "Create a clean timeline infographic for Lumora Pumpkin Seed Oil Softgels.\n\nCanvas: 2000 x 1250 px.\n\nTitle at top:\n\"What You Might Expect from Daily Use of Lumora\"\n\nLayout:\n- White or very light cream background.\n- Vertical dotted rust line down the center.\n- Six rust circular milestone nodes.\n- Alternating left/right milestone labels and short text cards.\n- Use small calendar icons next to each milestone label.\n\nMilestones:\n1. Week 1 — You may begin to notice calmer urinary function, fewer nighttime disruptions, and a more comfortable system as pumpkin...\n2. Month 1 — Energy may feel steadier, and your bladder and urinary system may start responding more comfortably to the demands of d...\n3. Month 2 — Many users notice thicker-looking hair, smoother urinary comfort, and more consistent well-being as natural compounds c...\n4. Month 3 — Some users report improved sleep quality, greater daily confidence, and more consistent vitality — feeling lighter and...\n5. Month 3 — Some users report improved sleep quality, greater daily confidence, and more consistent vitality — feeling lighter and...\n6. Month 3 — Some users report improved sleep quality, greater daily confidence, and more consistent vitality — feeling lighter and...\n\nStyle:\n- Minimal, clean, mostly white space.\n- Rust milestone nodes and card borders.\n- Text must be readable and not overcrowded.\n- Keep each card to 1-2 short sentences.\n\nDo not include product photos, people, or disease/cure claims.",
+    "comparison_table": "Product reference: use /generated/product-1/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil Softgels in Lumora branding and the page palette. Expected package type: supplement softgel bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a vertical 1600 x 2000 comparison table infographic.\n\nTitle:\n\"Why Lumora Pumpkin Seed Oil Outperforms Typical Pumpkin Seed Oil Supplements\"\n\nLayout:\n- Warm cream background.\n- Centered comparison table with thin rust border.\n- Three columns:\n  Left: Lumora with product package image matching the reference package type: supplement softgel bottle/container.\n  Center: dark rust column titled \"Which delivers more real benefits?\"\n  Right: \"Typical Pumpkin Seed Oil Supplements\" with a generic plain white bottle.\n- Add a circular \"VS\" badge near the top center.\n- Rows:\n  1. Potent cold-pressed pumpkin seed oil — no fillers\n  2. Supports kidney, bladder, hair & energy naturally\n  3. Manufactured in an FDA-registered facility\n  4. Supports steady energy and everyday vitality\n  5. Daily support\n  6. Daily support\n  7. Daily support\n  8. Daily support\n  9. Artificial ingredients and low-quality fillers\n  10. Low potency and poor absorption\n  11. Often expired or poorly sourced ingredients\n- Use rust check icons for Lumora advantages and red X icons for typical supplement disadvantages.\n- For negative rows, Lumora should show red X and typical supplements should show rust check only if the statement is about a typical drawback.\n\nStyle:\n- Match a high-converting supplement comparison graphic.\n- Rust center column, cream outer columns, clean grid lines.\n- All row text must fit and be readable.\n\nDo not use a real competitor brand name. Use only generic \"Typical Pumpkin Seed Oil Supplements.\"",
+    "comparison_table_mobile": "Product reference: use /generated/product-1/product-reference.png only to match the product package type, silhouette, proportions, format, and physical presentation. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil Softgels in Lumora branding and the page palette. Expected package type: supplement softgel bottle/container. Do not default to a pouch if the reference is a bottle, jar, bag, box, tube, or container. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a phone-optimized vertical comparison infographic.\n\nTitle:\n\"Why Lumora Pumpkin Seed Oil Outperforms Typical Pumpkin Seed Oil Supplements\"\n\nLayout:\n- Tall narrow mobile composition, designed to be readable at phone width.\n- Warm cream background with rust accents and clean rounded cards.\n- Stack the comparison instead of using a wide desktop table.\n- Top card: Lumora product package image matching the reference package type: supplement softgel bottle/container.\n- Second card: \"Typical Pumpkin Seed Oil Supplements\" with a generic plain white bottle.\n- Add a clear \"VS\" badge between the two cards.\n- Use grouped benefit rows with large readable text:\n  1. Potent cold-pressed pumpkin seed oil — no fillers\n  2. Supports kidney, bladder, hair & energy naturally\n  3. Manufactured in an FDA-registered facility\n  4. Supports steady energy and everyday vitality\n  5. Daily support\n  6. Artificial ingredients and low-quality fillers\n  7. Low potency and poor absorption\n  8. Often expired or poorly sourced ingredients\n- Use rust check icons for Lumora advantages and red X icons for typical supplement drawbacks.\n\nStyle:\n- Match the desktop comparison branding, but optimize spacing, text size, and hierarchy for mobile.\n- Avoid tiny table cells. Use large cards and short lines.\n- All text must fit and be readable.\n\nDo not use a real competitor brand name. Use only generic \"Typical Pumpkin Seed Oil Supplements.\""
+  },
+  "image_generation": {
+    "status": "done",
+    "message": "Generated Lumora product photo and landing-page image assets with Codex CLI imagegen.",
+    "generated": true,
+    "provider": "codex-cli-imagegen",
+    "productPhoto": "/generated/product-1/lumora-product-photo.png",
+    "slots": [
+      "hero_gallery_primary",
+      "hero_gallery_benefits",
+      "hero_gallery_trust",
+      "hero_gallery_facts",
+      "ingredient_benefits",
+      "timeline_expectations",
+      "comparison_table",
+      "comparison_table_mobile"
+    ]
+  },
+  "copy_protocol": {
+    "file": "DR Master Copywriter.md",
+    "title": "DR Master Copywriter",
+    "slug": "dr-master-copywriter",
+    "path": "landing-page-copy-protocols/DR Master Copywriter.md"
+  },
+  "rewrite_source": {
+    "page_id": "1-1",
+    "page_data_path": "/generated/product-1/angle-1/page-data.json",
+    "preview_path": "/?generated=1-1",
+    "rewritten_at": "2026-05-06T06:29:10.290Z"
+  },
+  "rewrite_history": [
+    {
+      "source_page_id": "1-1",
+      "protocol": {
+        "file": "DR Master Copywriter.md",
+        "title": "DR Master Copywriter",
+        "slug": "dr-master-copywriter",
+        "path": "landing-page-copy-protocols/DR Master Copywriter.md"
+      },
+      "rewritten_at": "2026-05-06T06:29:10.290Z"
+    }
+  ],
+  "add_to_cart": {
+    "version": 1,
+    "url": "https://lumora-us.com/cart",
+    "updated_at": "2026-05-06T06:42:37.251Z"
+  }
+}

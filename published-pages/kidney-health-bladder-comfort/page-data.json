@@ -1,0 +1,497 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-06T00:00:00.000Z",
+  "product_id": 24,
+  "angle_index": 0,
+  "brand_name": "Lumora",
+  "product_name": "Lumora Pumpkin Seed Oil",
+  "angle_label": "Kidney Health & Bladder Comfort",
+  "checkout_url": "https://checkout.lumora-us.com/pumpkin-seed",
+  "pricing_tiers": {
+    "item_type": "",
+    "tiers": [
+      {
+        "title": "",
+        "quantity": null,
+        "price": null,
+        "url": ""
+      },
+      {
+        "title": "",
+        "quantity": null,
+        "price": null,
+        "url": ""
+      },
+      {
+        "title": "",
+        "quantity": null,
+        "price": null,
+        "url": ""
+      }
+    ]
+  },
+  "assets": {
+    "images": {
+      "product_reference": "/generated/product-24/manual-product-reference.png",
+      "hero_gallery_primary": "/generated/product-24/hero-gallery-primary.png",
+      "hero_gallery_benefits": "/generated/product-24/hero-gallery-benefits.png",
+      "hero_gallery_trust": "/generated/product-24/hero-gallery-trust.png",
+      "hero_gallery_facts": "/generated/product-24/hero-gallery-facts.png",
+      "ingredient_benefits": "/generated/product-24/ingredient-benefits.png",
+      "timeline_expectations": "/generated/product-24/timeline-expectations.png",
+      "comparison_table": "/generated/product-24/comparison-table.png",
+      "comparison_table_mobile": "/generated/product-24/comparison-table-mobile.png",
+      "product_photo": "/generated/product-24/lumora-product-photo.png",
+      "product_cutout": "/generated/product-24/lumora-product-photo.png",
+      "comparison_product_cutout": "/generated/product-24/lumora-product-photo.png"
+    },
+    "gallery": [
+      "/generated/product-24/hero-gallery-primary.png",
+      "/generated/product-24/hero-gallery-benefits.png",
+      "/generated/product-24/hero-gallery-trust.png",
+      "/generated/product-24/hero-gallery-facts.png",
+      "/generated/product-24/ingredient-benefits.png",
+      "/generated/product-24/comparison-table.png"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Calm Inside Again",
+    "headline": "Naturally Supports Kidney Health & Bladder Comfort From Within",
+    "subheadline": "Two daily softgels deliver 3,000mg of cold-pressed pumpkin seed oil — helping your body maintain healthy urinary comfort, steady energy, and thicker-looking hair without artificial additives.",
+    "bullets": [
+      "Supports healthy kidney function daily",
+      "Promotes calm bladder & comfortable urinary flow",
+      "Natural compounds for thicker, fuller-looking hair",
+      "Helps maintain steady energy & daily vitality"
+    ],
+    "cta": "Claim My Supply"
+  },
+  "proof": [
+    "Cold-Pressed Formula",
+    "No Artificial Additives",
+    "Gluten Free",
+    "Non-GMO",
+    "Quality-Controlled Manufacturing",
+    "Traditional Use"
+  ],
+  "testimonial": {
+    "quote": "My bladder feels so much calmer, I'm sleeping through the night again, and my hair feels thicker than it has in years. I love how natural it feels — just pure support for my body.",
+    "name": "Carol F., United States"
+  },
+  "sections": [
+    {
+      "eyebrow": "Why It's Not Your Fault",
+      "headline": "Modern Kidney & Bladder Wellness May Be Falling Short",
+      "body": "Today's processed foods, chronic stress, and environmental toxins can burden the body's natural urinary balance. Many people aren't getting enough of the plant compounds — beta-sitosterol, zinc, and omega fatty acids — that the kidneys and bladder depend on to stay calm and resilient. When these reserves run low, the effects ripple outward: urinary urgency, disrupted sleep, thinning hair, low energy, and brain fog. These aren't separate problems. They're one interconnected imbalance rooted in a nutritional gap most people never know to address.",
+      "bullets": [
+        "Processed diets strip out key plant phytosterols",
+        "Chronic stress depletes zinc and cellular energy reserves",
+        "Depleted compounds affect bladder, sleep, hair, and focus simultaneously"
+      ]
+    },
+    {
+      "eyebrow": "The Science Behind Lumora",
+      "headline": "The Ancient Seed Backed by Centuries of Use",
+      "body": "Cold-pressed pumpkin seed oil has been used for generations to support urinary health and hormonal balance. Its naturally occurring beta-sitosterol helps maintain healthy hormonal signaling in urinary tract tissue — supporting calm bladder function and comfortable flow. Saw palmetto extract reinforces this by helping maintain normal hormonal metabolism that affects bladder muscle tone. Zinc supports hair follicle strength and cellular energy. Omega 3-6-9 fatty acids help promote a healthy inflammatory response. Together these compounds work cumulatively — rebuilding the nutritional foundation modern diets deplete.",
+      "bullets": [
+        "Beta-sitosterol supports urinary tract hormonal balance",
+        "Saw palmetto helps maintain healthy bladder muscle tone",
+        "Zinc & omega fatty acids support hair, energy, and clarity"
+      ]
+    },
+    {
+      "eyebrow": "What It Helps Support",
+      "headline": "Five Connected Concerns. One Daily Routine.",
+      "body": "When the kidney-bladder axis is nutritionally supported, the benefits reach further than most people expect. Lumora Pumpkin Seed Oil softgels are designed to help support the systems that depend on this foundation — from urinary comfort to restful sleep, steady energy, and healthier-looking hair. These aren't isolated benefits. They're downstream signals of a body that's finally getting what it needs.",
+      "bullets": [
+        "Urinary comfort and healthy flow throughout the day",
+        "Calmer nights with fewer sleep disruptions",
+        "Thicker-looking hair and steadier daily energy"
+      ]
+    },
+    {
+      "eyebrow": "What's Inside",
+      "headline": "One Powerful Ingredient. Comprehensive Daily Support.",
+      "body": "Lumora keeps it simple — cold-pressed pumpkin seed oil paired with saw palmetto in every softgel. No long ingredient lists. No artificial additives. Just potent, time-tested plant compounds your body relies on. Each serving delivers 3,000mg of Cucurbita pepo oil plus 300mg of saw palmetto extract — providing the beta-sitosterol, zinc, and omega 3-6-9 fatty acids your kidney-bladder system needs. Manufactured in an FDA-registered facility, cold-pressed to preserve the full spectrum of active compounds.",
+      "bullets": [
+        "3,000mg cold-pressed pumpkin seed oil per serving",
+        "300mg saw palmetto extract for enhanced urinary support",
+        "No fillers, artificial additives, or synthetic preservatives"
+      ]
+    },
+    {
+      "eyebrow": "Who It's For",
+      "headline": "Made for Anyone Ready to Feel Balanced Again",
+      "body": "Lumora Pumpkin Seed Oil is for adults who want to feel stronger, calmer, and naturally supported from within. No caffeine. No stimulants. No synthetic additives. Just two softgels a day — gentle on the stomach and easy to fit into any morning routine. If you want to feel more like yourself again… this was made for you.",
+      "bullets": [
+        "Adults dealing with urinary discomfort or nighttime disruptions",
+        "Anyone seeking natural kidney and bladder wellness support",
+        "Health-conscious individuals wanting a clean, simple daily habit"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "value": "49%",
+      "label": "Noticed improved urinary comfort within 14 days"
+    },
+    {
+      "value": "56%",
+      "label": "Experienced steadier energy and fewer nighttime disruptions"
+    },
+    {
+      "value": "72%",
+      "label": "Noticed improvements in hair thickness and appearance"
+    },
+    {
+      "value": "86%",
+      "label": "Reported feeling clearer, lighter, and more balanced after regular use"
+    }
+  ],
+  "comparison": {
+    "headline": "Why Lumora Outperforms Typical Kidney & Bladder Supplements",
+    "us": [
+      "3,000mg cold-pressed pumpkin seed oil per serving",
+      "Paired with saw palmetto for enhanced urinary support",
+      "No artificial additives, fillers, or synthetic preservatives"
+    ],
+    "them": [
+      "Low-potency formulas with token doses",
+      "Artificial ingredients and unnecessary fillers",
+      "Missing key plant-based urinary support compounds"
+    ]
+  },
+  "timeline": [
+    {
+      "label": "Week 1",
+      "text": "You may begin noticing calmer urinary function and fewer nighttime disruptions as your body starts adjusting to pumpkin seed oil's natural compounds."
+    },
+    {
+      "label": "Month 1",
+      "text": "Energy feels steadier. Your bladder and urinary system may start feeling calmer and more comfortable through the demands of your day."
+    },
+    {
+      "label": "Months 2–3",
+      "text": "Many users notice thicker-looking hair, smoother urinary comfort, and more consistent daily well-being with continued use."
+    },
+    {
+      "label": "Month 6+",
+      "text": "With long-term consistent use, your kidney and urinary systems work in better sync — supporting vitality, focus, and resilience through seasonal changes and daily stress."
+    }
+  ],
+  "offer": {
+    "headline": "Start Your Daily Kidney & Bladder Support",
+    "body": "Every order ships free and is backed by our 90-day satisfaction guarantee. If you don't feel the difference, write us one email for a full refund. The risk is on us — not on you.",
+    "bullets": [
+      "Free shipping on every order",
+      "90-day satisfaction guarantee",
+      "Clean, cold-pressed formula — no artificial additives"
+    ],
+    "cta": "Claim My Supply"
+  },
+  "faqs": [
+    {
+      "question": "How long before I notice results?",
+      "answer": "Most users begin noticing calmer urinary function within the first one to two weeks. Steadier energy and sleep improvements often follow by the end of the first month. Hair and overall well-being benefits tend to build over two to three months of consistent daily use."
+    },
+    {
+      "question": "I've tried supplements before and nothing worked. Why would this be different?",
+      "answer": "Most urinary supplements use low-potency formulas that don't deliver active compounds at a meaningful level. Lumora uses 3,000mg of cold-pressed pumpkin seed oil — preserving the full spectrum of beta-sitosterol and omega fatty acids that low-heat or synthetic alternatives lose in processing."
+    },
+    {
+      "question": "Is it safe to take with my current medications?",
+      "answer": "Lumora Pumpkin Seed Oil uses clean, natural ingredients with no artificial additives. If you are taking medications or managing a health condition, we always recommend consulting your healthcare provider before starting any new supplement."
+    },
+    {
+      "question": "How do I take it and when?",
+      "answer": "Take 2 softgels once per day with your favorite drink. Each pouch provides a 30-day supply. Store in a cool, dry place away from direct sunlight to preserve potency and freshness."
+    },
+    {
+      "question": "What if it doesn't work for me?",
+      "answer": "Every order is backed by our 90-day satisfaction guarantee. If you don't notice improved urinary comfort, steadier energy, or better overall well-being, write us one email and we'll issue a full refund — no return required. The risk is entirely on us."
+    },
+    {
+      "question": "Is Lumora gluten-free, non-GMO, and free of artificial additives?",
+      "answer": "Yes. Lumora is cold-pressed, non-GMO, gluten-free, and free of artificial additives, soy, and dairy. It is manufactured in an FDA-registered facility to ensure quality and consistency in every softgel."
+    }
+  ],
+  "image_prompts": {
+    "hero_gallery_primary": "Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 ecommerce supplement product graphic for Lumora Pumpkin Seed Oil.\n\nComposition:\n- Warm cream background with soft natural shadows, like sunlight through leaves.\n- Large front-facing product package on the left, occupying about 48% of the canvas height. Match the actual product type from the reference: stand-up supplement pouch or bag matching the uploaded product reference.\n- Product label should read: Lumora, Pumpkin Seed Oil, two daily softgels, 2 softgels.\n- On the right, place three vertically stacked benefit callouts with rust line icons.\n- Callout 1: Supports healthy kidney function daily\n- Callout 2: Promotes calm bladder & comfortable urinary flow\n- Callout 3: Natural compounds for thicker, fuller-looking hair\n- Add small product-related ingredient visuals near the package only if relevant.\n\nStyle:\n- Match a warm natural wellness brand.\n- Rust/burnt-orange typography and icons.\n- Clean, premium, minimal, not clinical.\n- All text must be spelled correctly and readable.\n\nDo not include people, videos, review screenshots, watermarks, medical cure claims, or FDA-approved claims.",
+    "hero_gallery_benefits": "Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 benefit explainer graphic for Lumora Pumpkin Seed Oil.\n\nComposition:\n- Rich warm brown/rust gradient background.\n- Big headline at top: \"Naturally Supports Kidney Health & Bladder Comfort From Within\"\n- Subheadline below: \"Two daily softgels deliver 3,000mg of cold-pressed pumpkin seed oil — helping your body maintain healthy urinary comfor...\"\n- Three large cream line icons across the middle with labels:\n  1. Supports healthy kidney function daily\n  2. Promotes calm bladder & comfortable urinary flow\n  3. Natural compounds for thicker, fuller-looking hair\n- Product package partially visible at the bottom, centered, matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.\n\nStyle:\n- Same visual language as the hero gallery: rust, cream, dark brown.\n- High contrast, big type, simple iconography.\n- Premium supplement advertorial, not a social-media meme.\n\nDo not include people or testimonial quotes.",
+    "hero_gallery_trust": "Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 trust and quality graphic for Lumora Pumpkin Seed Oil.\n\nComposition:\n- Warm brown/rust background.\n- Large headline: \"Why Trust Lumora\"\n- Four outlined cream cards in a row or grid, each with one simple icon and label:\n  1. Cold-Pressed Formula\n  2. No Artificial Additives\n  3. Gluten Free\n  4. Non-GMO\n- Below the cards, add 3-5 short trust bullets using small badge/check icons:\n  - Non-GMO\n  - Quality-Controlled Manufacturing\n  - Traditional Use\n- Optional: small product package at bottom center, matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.\n\nStyle:\n- Clean supplement trust graphic.\n- Cream icons/text on rust background.\n- Balanced spacing, no clutter.\n\nDo not invent certifications. Only include a certification if it is present in the product data.",
+    "hero_gallery_facts": "Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 supplement facts and usage graphic for Lumora Pumpkin Seed Oil.\n\nComposition:\n- Rust background with subtle ingredient line art.\n- Top headline: \"Start Your Daily Kidney & Bladder Support\"\n- Large white supplement-facts style panel in the upper-middle.\n- Use these source supplement facts exactly. Preserve ingredient names, amounts, units, and daily values where provided:\n- Serving size: 2 softgels\n- Servings per container: 30\n- Supplement Facts panel ingredients:\n  - Calories — 30\n  - Total Fat — 3 g — 4%**\n  - Saturated Fat — 0.75 g — 4%**\n  - Polyunsaturated Fat — 1.5 g — †\n  - Monounsaturated Fat — 0.75 g — †\n  - Pumpkin Seed Oil (Cucurbita pepo) — 3,000 mg — †\n  - Saw Palmetto (Serenoa repens)(fruit) (from 75mg of 4:1 extract) — 300 mg — †\n- Other ingredients: Softgel (gelatin, glycerin, purified water), Natural carob.\n- Directions: Get 2 premium softgels. Grab your favorite drink. Consume once per day.\n- Bottom section with two or three usage callouts:\n  - Supports healthy kidney function daily\n  - Promotes calm bladder & comfortable urinary flow\n  - Natural compounds for thicker, fuller-looking hair\n\nStyle:\n- Keep the facts panel realistic and readable.\n- Use white, rust, and black.\n- Clean compliance-friendly supplement label look.\n\nDo not invent ingredient amounts. If exact amounts are missing, omit the amount rather than guessing.",
+    "ingredient_benefits": "Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a square 2000 x 2000 ingredient benefits graphic for Lumora Pumpkin Seed Oil.\n\nComposition:\n- Solid rust background with rounded corners feel.\n- Left column: five white circular line icons stacked vertically.\n- Right of each icon: one large white benefit/ingredient line.\n- Text lines:\n  1. 3,000mg cold-pressed pumpkin seed oil per serving\n  2. 300mg saw palmetto extract for enhanced urinary support\n  3. No fillers, artificial additives, or synthetic preservatives\n  4. Helps maintain steady energy & daily vitality\n  5. Daily support\n- Bottom-right: realistic glossy capsules, powder scoop, drops, gummies, or product-relevant supplement form matching this product type: stand-up supplement pouch or bag matching the uploaded product reference.\n\nStyle:\n- Match the Lumora orange ingredient card layout.\n- Large readable white typography.\n- Simple white line icons.\n- High contrast and polished ecommerce graphic.\n\nDo not include a person or testimonial.",
+    "timeline_expectations": "Create a clean timeline infographic for Lumora Pumpkin Seed Oil.\n\nCanvas: 2000 x 1250 px.\n\nTitle at top:\n\"What You Might Expect from Daily Use of Lumora\"\n\nLayout:\n- White or very light cream background.\n- Vertical dotted rust line down the center.\n- Six rust circular milestone nodes.\n- Alternating left/right milestone labels and short text cards.\n- Use small calendar icons next to each milestone label.\n\nMilestones:\n1. Week 1 — You may begin noticing calmer urinary function and fewer nighttime disruptions as your body starts adjusting to pumpkin...\n2. Month 1 — Energy feels steadier. Your bladder and urinary system may start feeling calmer and more comfortable through the demand...\n3. Months 2–3 — Many users notice thicker-looking hair, smoother urinary comfort, and more consistent daily well-being with continued u...\n4. Month 6+ — With long-term consistent use, your kidney and urinary systems work in better sync — supporting vitality, focus, and re...\n5. Month 6+ — With long-term consistent use, your kidney and urinary systems work in better sync — supporting vitality, focus, and re...\n6. Month 6+ — With long-term consistent use, your kidney and urinary systems work in better sync — supporting vitality, focus, and re...\n\nStyle:\n- Minimal, clean, mostly white space.\n- Rust milestone nodes and card borders.\n- Text must be readable and not overcrowded.\n- Keep each card to 1-2 short sentences.\n\nDo not include product photos, people, or disease/cure claims.",
+    "comparison_table": "Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a vertical 1600 x 2000 comparison table infographic.\n\nTitle:\n\"Why Lumora Pumpkin Seed Oil Outperforms Typical Pumpkin Seed Oil Supplements\"\n\nLayout:\n- Warm cream background.\n- Centered comparison table with thin rust border.\n- Three columns:\n  Left: Lumora with product package image matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.\n  Center: dark rust column titled \"Which delivers more real benefits?\"\n  Right: \"Typical Pumpkin Seed Oil Supplements\" with a generic plain white bottle.\n- Add a circular \"VS\" badge near the top center.\n- Rows:\n  1. 3,000mg cold-pressed pumpkin seed oil per serving\n  2. Paired with saw palmetto for enhanced urinary support\n  3. No artificial additives, fillers, or synthetic preservatives\n  4. Helps maintain steady energy & daily vitality\n  5. Daily support\n  6. Daily support\n  7. Daily support\n  8. Daily support\n  9. Low-potency formulas with token doses\n  10. Artificial ingredients and unnecessary fillers\n  11. Missing key plant-based urinary support compounds\n- Use rust check icons for Lumora advantages and red X icons for typical supplement disadvantages.\n- For negative rows, Lumora should show red X and typical supplements should show rust check only if the statement is about a typical drawback.\n\nStyle:\n- Match a high-converting supplement comparison graphic.\n- Rust center column, cream outer columns, clean grid lines.\n- All row text must fit and be readable.\n\nDo not use a real competitor brand name. Use only generic \"Typical Pumpkin Seed Oil Supplements.\"",
+    "comparison_table_mobile": "Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.\n\nCreate a phone-optimized vertical comparison infographic.\n\nTitle:\n\"Why Lumora Pumpkin Seed Oil Outperforms Typical Pumpkin Seed Oil Supplements\"\n\nLayout:\n- Tall narrow mobile composition, designed to be readable at phone width.\n- Warm cream background with rust accents and clean rounded cards.\n- Stack the comparison instead of using a wide desktop table.\n- Top card: Lumora product package image matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.\n- Second card: \"Typical Pumpkin Seed Oil Supplements\" with a generic plain white bottle.\n- Add a clear \"VS\" badge between the two cards.\n- Use grouped benefit rows with large readable text:\n  1. 3,000mg cold-pressed pumpkin seed oil per serving\n  2. Paired with saw palmetto for enhanced urinary support\n  3. No artificial additives, fillers, or synthetic preservatives\n  4. Helps maintain steady energy & daily vitality\n  5. Daily support\n  6. Low-potency formulas with token doses\n  7. Artificial ingredients and unnecessary fillers\n  8. Missing key plant-based urinary support compounds\n- Use rust check icons for Lumora advantages and red X icons for typical supplement drawbacks.\n\nStyle:\n- Match the desktop comparison branding, but optimize spacing, text size, and hierarchy for mobile.\n- Avoid tiny table cells. Use large cards and short lines.\n- All text must fit and be readable.\n\nDo not use a real competitor brand name. Use only generic \"Typical Pumpkin Seed Oil Supplements.\""
+  },
+  "copy_protocol": {
+    "file": "DR Master Copywriter.md",
+    "title": "DR Master Copywriter",
+    "slug": "dr-master-copywriter",
+    "path": "landing-page-copy-protocols/DR Master Copywriter.md"
+  },
+  "generation_input": {
+    "version": 1,
+    "generated_at": "2026-05-06T07:20:46.755Z",
+    "product_id": 24,
+    "selling_point_index": 0,
+    "selected_selling_point": "Everly Pumpkin Seed Oil Softgels – Naturally Strengthens Kidney Health and Bladder Comfort from Within",
+    "main_pitch": "Everly Pumpkin Seed Oil Softgels – Naturally Strengthens Kidney Health and Bladder Comfort from Within",
+    "product_name": "Everly Pumpkin Seed Oil",
+    "angle_data": {
+      "index": 0,
+      "angle": "Everly Pumpkin Seed Oil Softgels – Naturally Strengthens Kidney Health and Bladder Comfort from Within",
+      "avatar_icon": "◉",
+      "avatar": "Adults in their 40s, 50s, and 60s who are quietly dealing with urinary discomfort, low energy, and disrupted sleep but haven't found a natural solution that actually works. They are health-conscious, skeptical of harsh pharmaceuticals, and want to feel strong and balanced again without complicated routines. They often notice their hair thinning, their focus slipping, and their confidence around bladder control fading — and they're ready for a simple daily habit that addresses the root of these connected concerns.",
+      "niche": "Natural kidney and bladder wellness supplements",
+      "benefits": "Helps maintain healthy kidney function every day\nSupports a calm bladder and comfortable urinary flow\nNatural compounds that promote thicker, fuller-looking hair\nSupports energy, clarity, and daily wellness",
+      "promises": "Everly Pumpkin Seed Oil Softgels are formulated to help you reclaim kidney wellness, bladder comfort, and the energy, hair, and clarity that depend on them — using potent cold-pressed pumpkin seed oil and saw palmetto in every softgel, with no artificial fillers or additives. We're so confident in the results that every order is backed by a full 30-day money-back guarantee — if you don't feel the difference, you pay nothing.",
+      "brand_name": "Everly",
+      "objections": "- 'I've tried supplements before and nothing worked' — Everly uses cold-pressed extraction to preserve the full spectrum of active compounds, unlike low-potency mass-market alternatives\n- 'Is this safe to take with my current medications?' — We recommend consulting your healthcare provider if you're on medications; the formula uses clean, natural ingredients with no artificial additives\n- 'How do I know this is real quality?' — Everly is produced in an FDA-registered facility, cold-pressed, non-GMO, and gluten free with no artificial additives\n- 'Will two softgels really make a difference?' — The 3,000mg dose of Cucurbita pepo oil per serving reflects the potency used in traditional use and modern formulation standards\n- 'What if it doesn't work for me?' — The 30-day full money-back guarantee means you can try it completely risk-free",
+      "root_cause": "Modern diets are chronically depleted in the natural plant compounds — beta-sitosterol, zinc, and omega 3-6-9 fatty acids — that the body relies on to maintain healthy kidney function and urinary balance. High-stress lifestyles further drain these reserves, leaving the bladder, hormonal system, hair follicles, and cellular energy pathways without the raw materials they need. Over time, this compounding nutritional gap creates a cascade of seemingly unrelated symptoms: urinary discomfort, fatigue, hair thinning, disrupted sleep, and brain fog.",
+      "how_it_works": "Each serving of two softgels delivers a concentrated dose of cold-pressed pumpkin seed oil and saw palmetto extract directly to your system, where the active compounds — beta-sitosterol, zinc, and omega fatty acids — are absorbed and distributed to support the kidney-bladder axis and hormonal pathways. Beta-sitosterol helps maintain healthy urinary flow and hormonal balance, while zinc supports cellular renewal and hair follicle strength at the root level. The omega 3-6-9 fatty acids work to support a healthy inflammatory response, helping the body maintain comfortable, calm function throughout the day and night. With consistent daily use, these compounds work cumulatively — helping the body rebuild its natural reserves and restore the balance that stress and modern diets have depleted.",
+      "our_solution": "Everly Pumpkin Seed Oil Softgels deliver 3,000mg of cold-pressed Cucurbita pepo oil plus 300mg of saw palmetto extract — providing the beta-sitosterol, zinc, and omega 3-6-9 fatty acids your body needs to maintain healthy kidney function, support bladder comfort, and promote hair and energy wellness. Just two softgels a day replenishes the natural compounds modern diets fail to provide, helping your body restore balance from within so you can feel strong, calm, and confident again.",
+      "primary_goal": "To feel calm, strong, and in control of their body again — sleeping through the night, moving freely, and living without the constant background worry of urinary discomfort.",
+      "product_name": "Everly Pumpkin Seed Oil",
+      "negative_hook": "Constant Bathroom Anxiety",
+      "positive_hook": "Calm Inside Again",
+      "special_offer": "Everly is currently offering a Buy Two Bags Get One Free promotion — that's up to 70% off the regular price, with free shipping included on every order. This makes it easy to stock a full 2-3 month supply (each pouch contains 180 softgels) and experience the compounding benefits of consistent daily use. The offer is exclusive to the online store and is available while supplies last.",
+      "ultimate_fear": "That the urinary discomfort, fatigue, hair loss, and brain fog are not separate annoyances but signs of a deeper decline — and that if nothing changes, they'll keep losing control of their body, their confidence, and their independence.",
+      "false_solutions": "- Cutting fluid intake to manage bathroom trips — only creates dehydration without addressing the underlying imbalance\n- Generic multivitamins with trace minerals — lack the specific compounds like beta-sitosterol and saw palmetto needed for urinary and hormonal support\n- Prescription medications — often come with side effects and don't address the nutritional root cause\n- Expensive specialist consultations and procedures — inconvenient, costly, and typically focused on symptoms rather than foundational wellness",
+      "market_segments": [
+        {
+          "ad_angle": "Stop planning your life around your bladder — calm urinary comfort starts from within",
+          "motivation": "Regain freedom of movement, social confidence, and uninterrupted sleep without relying on medication",
+          "segment_name": "Urinary Comfort Seekers",
+          "best_ad_format": "VSL with problem-agitation-solution structure, leading with the bathroom map relatable hook",
+          "avatar_description": "Adults in their 50s and 60s experiencing increasing urinary urgency and nighttime bathroom trips that are disrupting sleep and daily confidence. They want a natural, non-pharmaceutical solution that addresses the root cause rather than just masking symptoms."
+        },
+        {
+          "ad_angle": "The hidden nutritional gap that's quietly draining your energy — and the natural way to close it",
+          "motivation": "Recover sustained daily energy and mental clarity to perform at their best in work and life",
+          "segment_name": "Natural Energy & Vitality Seekers",
+          "best_ad_format": "Educational image ad or short-form video explaining the kidney-bladder depletion connection to energy",
+          "avatar_description": "Health-conscious adults who feel their energy has been steadily declining and suspect a nutritional or hormonal root cause rather than simply aging. They've tried vitamins and lifestyle changes but want something that addresses multiple areas of vitality at once."
+        },
+        {
+          "ad_angle": "Thinning hair isn't just a surface problem — here's the hormonal root cause most people miss",
+          "motivation": "Restore hair density and feel confident in their appearance through internal nutritional support",
+          "segment_name": "Hair Wellness Seekers",
+          "best_ad_format": "Testimonial carousel or before/after focused image ad with educational overlay on the zinc-hormone connection",
+          "avatar_description": "Adults noticing progressive hair thinning who suspect it's connected to hormonal or nutritional changes rather than purely genetics. They are drawn to natural internal solutions and want to address what's happening beneath the surface rather than using topical products alone."
+        },
+        {
+          "ad_angle": "Five symptoms. One root cause. One daily softgel routine that addresses all of them naturally.",
+          "motivation": "Find a clean, high-quality daily supplement that supports multiple wellness systems and simplifies their routine",
+          "segment_name": "Whole-Body Wellness Optimizers",
+          "best_ad_format": "Long-form educational VSL or advertorial explaining the kidney-bladder axis and its downstream effects",
+          "avatar_description": "Health-conscious individuals who see multiple seemingly unrelated symptoms — fatigue, brain fog, hair thinning, sleep disruption, urinary discomfort — and intuit they may be connected to one underlying imbalance. They are research-oriented, skeptical of synthetic supplements, and motivated by finding one clean, high-quality solution."
+        }
+      ],
+      "secondary_goals": "- Regain thicker, fuller-looking hair and feel more confident in appearance\n- Sustain steady daily energy without afternoon crashes or relying on stimulants\n- Achieve mental clarity and focus to stay sharp and productive throughout the day\n- Find one simple, natural daily habit that supports multiple areas of wellness at once",
+      "mistaken_beliefs": "- They believe urinary discomfort and fatigue are just inevitable parts of aging rather than addressable nutritional gaps\n- They assume hair thinning is purely genetic and nothing natural can support follicle strength\n- They think these symptoms are unrelated — not recognizing that kidney-bladder axis imbalance can affect energy, sleep, hair, and hormonal health simultaneously\n- They believe supplements are all the same and that higher prices just mean better marketing, not better results",
+      "product_benefits": "Helps maintain healthy kidney function every day\nSupports a calm bladder and comfortable urinary flow\nNatural compounds that promote thicker, fuller-looking hair\nSupports energy, clarity, and daily wellness",
+      "unique_mechanism": "Cold-pressed pumpkin seed oil (3,000mg Cucurbita pepo) combined with saw palmetto extract (300mg) delivers a concentrated source of beta-sitosterol, which helps maintain hormonal balance and supports comfortable urinary flow; zinc, which plays a key role in cellular function and hair follicle strength; and omega 3-6-9 fatty acids, which support a healthy inflammatory response and cardiovascular wellness. Together, these compounds work synergistically to replenish what modern diets deplete, supporting the kidney-bladder axis, hormonal equilibrium, and the downstream systems — hair, energy, and mental clarity — that depend on it.",
+      "master_root_cause": "The real culprit is a slow, invisible depletion of the plant compounds your kidney-bladder system needs to stay balanced — a nutritional gap that modern diets create and most people never know to fix.",
+      "negative_feelings": "- Embarrassed and anxious about needing the bathroom at inconvenient times\n- Exhausted and frustrated that low energy is stealing their best hours\n- Self-conscious watching their hair thin while feeling helpless to stop it\n- Overwhelmed and defeated after trying multiple products that didn't deliver results",
+      "primary_complaint": "Frequent urinary urgency and nighttime disruptions that drain energy, disrupt sleep, and quietly erode confidence and quality of life.",
+      "core_market_thesis": "What looks like five separate health concerns — a bladder that won't stay calm, energy that's been quietly draining for years, hair that's noticeably thinner, sleep that's constantly interrupted, and a mind that can't quite lock in — is actually one interconnected imbalance rooted in the kidney-bladder axis and its relationship to hormonal equilibrium. When the body is depleted of the plant compounds — beta-sitosterol, zinc, and omega fatty acids — that support healthy kidney function and hormonal signaling, the effects ripple outward into every system that depends on that foundation. The bladder becomes reactive, hormonal regulation becomes dysregulated, hair follicles lose the cellular support they need, sleep architecture is disturbed by nighttime urgency and stress hormones, and the brain loses the metabolic stability that sustains focus and clarity. This is not aging — this is a compounding nutritional gap that modern diets create and most supplements fail to address with the right compounds at the right potency. Everly exists to close that gap at the root, so the whole system can rebalance.",
+      "symptom_root_causes": [
+        {
+          "symptom": "Urinary Discomfort & Frequency",
+          "mechanism_name": "Phytosterol Bladder Calibration",
+          "mechanism_chain": "Beta-sitosterol depletion → dysregulated hormonal signaling in urinary tract tissue → overactive bladder, urgency, and discomfort",
+          "ingredient_bridge": "Beta-sitosterol from cold-pressed pumpkin seed oil helps maintain healthy hormonal balance in the urinary tract tissues, supporting calm bladder signaling and comfortable urinary flow; saw palmetto extract reinforces this by helping maintain normal hormonal metabolism that affects bladder muscle tone.",
+          "root_cause_narrative": "When the body is depleted of beta-sitosterol and the plant phytosterols that support healthy hormonal signaling, the smooth muscle and tissue of the urinary tract lose the regulatory support they need to remain calm and responsive. This creates an overactive bladder environment where signals misfire, urgency builds inappropriately, and comfortable urinary flow becomes unreliable.",
+          "better_root_cause_phrase": "Hormonal Drought in the Bladder Wall"
+        },
+        {
+          "symptom": "Low Energy & Fatigue",
+          "mechanism_name": "Zinc-Omega Cellular Energy Restoration",
+          "mechanism_chain": "Zinc and fatty acid depletion → impaired cellular energy metabolism → persistent fatigue and afternoon energy crashes",
+          "ingredient_bridge": "Zinc from pumpkin seed oil supports the enzymatic pathways required for cellular energy metabolism, while omega 3-6-9 fatty acids help maintain mitochondrial membrane integrity and healthy inflammatory balance — both foundational to sustained, steady energy output.",
+          "root_cause_narrative": "Cellular energy production depends on zinc-dependent enzymatic reactions and the mitochondrial support provided by essential fatty acids — both of which are chronically undersupplied in modern diets. When these reserves fall short, the body's ability to convert nutrients into usable energy diminishes, producing the persistent, low-grade fatigue that no amount of caffeine or rest seems to fully resolve.",
+          "better_root_cause_phrase": "Cellular Fuel Starvation"
+        },
+        {
+          "symptom": "Hair Thinning & Loss",
+          "mechanism_name": "Zinc-Phytosterol Follicle Support",
+          "mechanism_chain": "Zinc deficiency + hormonal imbalance → follicle miniaturization and shortened growth cycles → visible hair thinning and reduced density",
+          "ingredient_bridge": "Zinc from pumpkin seed oil is directly involved in protein synthesis and cell division within hair follicles, supporting healthy growth cycles; beta-sitosterol helps maintain the hormonal environment that keeps follicles active and prevents the hormonal disruption that accelerates follicle miniaturization.",
+          "root_cause_narrative": "Hair follicles are among the most nutritionally sensitive structures in the body, requiring a precise hormonal environment and adequate zinc to sustain healthy growth cycles. When hormonal balance is disrupted by beta-sitosterol depletion and zinc falls short, follicles miniaturize, growth cycles shorten, and hair visibly thins — a downstream signal of a deeper systemic imbalance.",
+          "better_root_cause_phrase": "Follicle Starvation from Hormonal Imbalance"
+        },
+        {
+          "symptom": "Disrupted Sleep",
+          "mechanism_name": "Nocturnal Bladder Calm Protocol",
+          "mechanism_chain": "Phytosterol depletion → overactive bladder signals at night → repeated sleep interruption and loss of deep restorative sleep",
+          "ingredient_bridge": "Beta-sitosterol and saw palmetto extract work together to support calm bladder function through the night, helping reduce the urinary urgency that interrupts sleep — allowing the body to complete full, restorative sleep cycles.",
+          "root_cause_narrative": "Nighttime bladder urgency — driven by the same hormonal imbalance that causes daytime urinary discomfort — is one of the most common and least addressed causes of fragmented sleep in adults. When the urinary tract lacks the phytosterol support to remain calm through the night, sleep is repeatedly interrupted, preventing the deep restorative cycles that energy, mood, hormonal regulation, and cognitive function all depend on.",
+          "better_root_cause_phrase": "Nighttime Bladder Siege"
+        },
+        {
+          "symptom": "Brain Fog & Lack of Focus",
+          "mechanism_name": "Neuro-Metabolic Clarity Restoration",
+          "mechanism_chain": "Fatty acid and zinc depletion → disrupted neuronal energy metabolism and inflammatory imbalance → reduced focus, mental clarity, and cognitive sharpness",
+          "ingredient_bridge": "Omega 3-6-9 fatty acids support healthy inflammatory balance and neuronal membrane function, both essential for clear cognitive signaling; zinc supports the enzymatic processes involved in neurotransmitter metabolism — together helping to restore the metabolic foundation that mental clarity depends on.",
+          "root_cause_narrative": "Cognitive clarity depends on stable cellular energy metabolism, healthy inflammatory balance, and the hormonal equilibrium that supports neurotransmitter function — all of which are compromised when the body is depleted of zinc and essential fatty acids. The result is a brain that struggles to lock in, filter distractions, or sustain focus — not from lack of effort, but from a foundational nutritional deficit that disrupts the metabolic environment the mind needs to operate sharply.",
+          "better_root_cause_phrase": "Metabolic Static in the Mind"
+        }
+      ],
+      "avatar_summary_table": [
+        {
+          "segment": "Urinary Comfort Seekers",
+          "root_cause": "Beta-sitosterol depletion causing overactive bladder signaling",
+          "avatar_name": "The Reluctant Bathroom Planner",
+          "avatar_number": 1,
+          "mechanism_name": "Phytosterol Bladder Calibration"
+        },
+        {
+          "segment": "Urinary Comfort Seekers",
+          "root_cause": "Nighttime bladder overactivity from hormonal imbalance in urinary tract tissue",
+          "avatar_name": "The Night-Interrupted Sleeper",
+          "avatar_number": 2,
+          "mechanism_name": "Nocturnal Bladder Calm Protocol"
+        },
+        {
+          "segment": "Natural Energy & Vitality Seekers",
+          "root_cause": "Zinc and omega fatty acid depletion disrupting cellular energy metabolism",
+          "avatar_name": "The Chronically Fatigued Professional",
+          "avatar_number": 3,
+          "mechanism_name": "Zinc-Omega Cellular Energy Restoration"
+        },
+        {
+          "segment": "Natural Energy & Vitality Seekers",
+          "root_cause": "Fatty acid and zinc depletion disrupting neuronal metabolism and inflammatory balance",
+          "avatar_name": "The Foggy-Minded Multitasker",
+          "avatar_number": 4,
+          "mechanism_name": "Neuro-Metabolic Clarity Restoration"
+        },
+        {
+          "segment": "Hair Wellness Seekers",
+          "root_cause": "Hormonal imbalance and zinc deficiency causing follicle miniaturization",
+          "avatar_name": "The Hair-Thinning Self-Conscious Adult",
+          "avatar_number": 5,
+          "mechanism_name": "Zinc-Phytosterol Follicle Support"
+        },
+        {
+          "segment": "Whole-Body Wellness Optimizers",
+          "root_cause": "Compounding nutritional depletion across the kidney-bladder-hormonal axis",
+          "avatar_name": "The Natural-First Health Skeptic",
+          "avatar_number": 6,
+          "mechanism_name": "The Cucurbita Restoration Protocol"
+        },
+        {
+          "segment": "Whole-Body Wellness Optimizers",
+          "root_cause": "The Kidney-Bladder Depletion Cascade affecting energy, sleep, hair, and cognitive function simultaneously",
+          "avatar_name": "The Symptom-Connector Researcher",
+          "avatar_number": 7,
+          "mechanism_name": "The Cucurbita Restoration Protocol"
+        },
+        {
+          "segment": "Natural Energy & Vitality Seekers",
+          "root_cause": "Cumulative zinc and phytosterol depletion from decades of modern dietary patterns",
+          "avatar_name": "The Pre-Retirement Vitality Seeker",
+          "avatar_number": 8,
+          "mechanism_name": "Zinc-Omega Cellular Energy Restoration"
+        },
+        {
+          "segment": "Urinary Comfort Seekers",
+          "root_cause": "Overactive bladder anxiety rooted in hormonal depletion of the urinary tract tissue",
+          "avatar_name": "The Social-Life Avoider",
+          "avatar_number": 9,
+          "mechanism_name": "Phytosterol Bladder Calibration"
+        },
+        {
+          "segment": "Whole-Body Wellness Optimizers",
+          "root_cause": "Long-term nutritional gap in phytosterols, zinc, and omega fatty acids from processed modern diet",
+          "avatar_name": "The Clean-Supplement Loyalist",
+          "avatar_number": 10,
+          "mechanism_name": "The Cucurbita Restoration Protocol"
+        }
+      ],
+      "root_cause_deep_dive": "The kidneys and bladder don't operate in isolation — they are part of a broader hormonal and cellular ecosystem that depends on a steady supply of specific plant compounds to function smoothly. Modern processed diets strip out the phytosterols, essential fatty acids, and trace minerals that traditional whole-food diets naturally provided, leaving the body without the tools it needs to maintain urinary balance and hormonal equilibrium. When these reserves run low, the bladder becomes overactive and reactive, the hormonal signals that regulate sleep and stress grow dysregulated, and hair follicles — which are highly sensitive to nutritional and hormonal shifts — begin to thin. The energy pathways that depend on cellular zinc and fatty acid availability start to falter, producing the persistent fatigue and brain fog that make everything feel harder. Left unaddressed, this compounding nutritional depletion quietly undermines multiple systems at once, making what feels like five separate problems actually one interconnected imbalance with a single root.",
+      "secondary_complaints": "- Persistent brain fog and lack of focus making it hard to stay on top of daily tasks\n- Hair thinning that feels connected to something deeper going on inside the body\n- Occasional joint and muscle discomfort that adds to the sense of physical decline\n- Stress and irritability that are harder to manage since energy and sleep quality dropped",
+      "negative_hook_options": [
+        "Constant Bathroom Anxiety",
+        "Running on Empty",
+        "Body Quietly Failing",
+        "Wired and Exhausted",
+        "Leaking Confidence Daily",
+        "Never Fully Rested",
+        "Thinning From the Inside",
+        "Foggy and Worn Out",
+        "Silently Falling Apart",
+        "Depleted and Dismissed"
+      ],
+      "positive_hook_options": [
+        "Finally Flowing Free",
+        "Calm Inside Again",
+        "Strong From Within",
+        "Balanced and Unworried",
+        "Sleeping Through Again",
+        "Quietly Confident",
+        "Fully Myself Again",
+        "Whole Body Calm",
+        "Effortlessly Strong",
+        "Naturally Restored"
+      ],
+      "expensive_alternatives": "- Urology specialist visits and ongoing medical management costing hundreds to thousands per year\n- Prescription pharmaceutical options with potential side effects and recurring costs\n- High-end compounded hormone therapies requiring frequent monitoring and lab work\n- Premium hair restoration treatments or clinics that address the surface symptom without the underlying nutritional support",
+      "mechanism_explanations": [
+        "Beta-sitosterol, a natural plant sterol abundant in cold-pressed pumpkin seed oil, supports healthy hormonal balance by helping maintain normal cellular signaling in the urinary tract. This helps promote a calm, comfortable bladder and supports urinary flow without the urgency and discomfort that come from hormonal imbalance in the kidney-bladder axis.",
+        "Zinc is an essential trace mineral that plays a central role in hormonal regulation and the health of hair follicles at the cellular level. By replenishing zinc through pumpkin seed oil and saw palmetto, Everly helps support the hormonal environment that keeps hair follicles active and hair growth cycles functioning normally.",
+        "The omega 3-6-9 fatty acids in cold-pressed pumpkin seed oil help support a healthy inflammatory response throughout the body, which is foundational to comfortable joint function, cardiovascular wellness, and the calm signaling environment the bladder and kidneys need to operate smoothly."
+      ],
+      "master_root_cause_enemy": "The Kidney-Bladder Depletion Cascade",
+      "master_product_mechanism": "The Cucurbita Restoration Protocol: First, cold-pressed pumpkin seed oil delivers a concentrated dose of beta-sitosterol directly into the bloodstream, where it begins supporting healthy hormonal signaling in the urinary tract. Second, saw palmetto extract amplifies this effect by helping maintain hormonal balance at the cellular level, reducing the overactivity that drives urinary urgency and disrupted sleep. Third, zinc replenishes the trace mineral reserves that hair follicles, immune cells, and energy-producing cells depend on to function at full capacity. Fourth, omega 3-6-9 fatty acids support healthy inflammatory balance throughout the body, helping the kidneys, bladder, joints, and cardiovascular system maintain comfortable, efficient function. Fifth, the full compound matrix works cumulatively over time — rebuilding the nutritional foundation that modern diets strip away and restoring the whole-body balance that makes energy, clarity, hair wellness, and bladder confidence possible again.",
+      "negative_future_outcomes": "- Urinary discomfort may progressively interfere with travel, social life, and sleep quality\n- Ongoing energy depletion may deepen into chronic fatigue, affecting work and relationships\n- Hair thinning may accelerate, further impacting confidence and self-image\n- Hormonal and cellular imbalances left unaddressed may compound over time, making recovery harder",
+      "negative_hook_definition": "Constant Bathroom Anxiety is the invisible weight you carry everywhere — the mental map of every restroom in every building you enter, the hesitation before long car rides, the quiet dread during meetings or social events when the urge comes at the worst possible moment. It's not just physical discomfort — it's the way it rewires your thinking, making you plan your life around your bladder instead of living it freely. It compounds quietly: the lost sleep from nighttime urgency feeds the fatigue that feeds the brain fog that makes everything harder. And underneath it all is the unsettling sense that something is off at a deeper level — that your body is sending signals you don't know how to answer. For the avatar dealing with this, it's not one problem. It's the drumbeat behind every single day, growing louder the longer the root cause goes unaddressed.",
+      "positive_hook_definition": "Calm Inside Again is that feeling you'd almost forgotten was possible — waking up rested because you slept through the night without urgency pulling you out of bed, moving through your day without the low-grade anxiety of wondering where the nearest bathroom is, and looking in the mirror and seeing hair that looks fuller, a face that looks rested, and eyes that look clear. It's the quiet confidence that comes when your body is working the way it's supposed to — when your kidneys and bladder are balanced, your hormones are in rhythm, and your energy isn't being silently drained by a nutritional gap you didn't even know existed. Everly Pumpkin Seed Oil Softgels are designed to help you reclaim that state — not through stimulants or synthetic shortcuts, but by giving your body the cold-pressed plant compounds it needs to restore its own natural equilibrium, one softgel at a time.",
+      "transformative_testimonials": "\"I've been feeling stronger and more balanced since taking Everly Pumpkin Seed Oil. My bladder feels so much calmer, I'm sleeping through the night again, and my hair feels thicker than it has in years. I love how natural it feels — just pure support for my body.\" — Carol F., United States [PLACEHOLDER]"
+    },
+    "copy_protocol": {
+      "file": "DR Master Copywriter.md",
+      "title": "DR Master Copywriter",
+      "slug": "dr-master-copywriter",
+      "path": "landing-page-copy-protocols/DR Master Copywriter.md"
+    }
+  },
+  "tracking": {
+    "facebook_pixel": {
+      "snippet": "<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '1724781335351140');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=1724781335351140&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
+      "version": 1,
+      "updated_at": "2026-05-06T07:03:24.171Z"
+    }
+  },
+  "add_to_cart": {
+    "url": "https://checkout.lumora-us.com/pumpkin-seed",
+    "version": 1,
+    "updated_at": "2026-05-06T07:03:40.505Z"
+  },
+  "image_generation": {
+    "status": "done",
+    "message": "Regenerated Lumora product photo and landing-page image assets with Codex CLI imagegen.",
+    "generated": true,
+    "provider": "codex-cli-imagegen",
+    "productPhoto": "/generated/product-24/lumora-product-photo.png",
+    "slots": [
+      "hero_gallery_primary",
+      "hero_gallery_benefits",
+      "hero_gallery_trust",
+      "hero_gallery_facts",
+      "ingredient_benefits",
+      "timeline_expectations",
+      "comparison_table",
+      "comparison_table_mobile"
+    ]
+  },
+  "published_url_slug": "kidney-health-bladder-comfort",
+  "published_url": "https://infinity-sky-ai.github.io/lumora-generated-pages/kidney-health-bladder-comfort/",
+  "published_to_main_site_at": "2026-05-06T09:07:25.477Z",
+  "published_source": {
+    "page_id": "24-0",
+    "page_data_path": "/generated/product-24/angle-0/page-data.json",
+    "preview_path": "/?generated=24-0"
+  }
+}

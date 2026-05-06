@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-01T00:00:00.000Z",
+  "product_id": 2,
+  "angle_index": 3,
+  "brand_name": "Lumora",
+  "product_name": "Lumora Elderberry Gut Support Softgels",
+  "angle_label": "Post-50 Gut Reset: When Digestion Slows Down with Age",
+  "checkout_url": "#offer",
+  "assets": {
+    "images": {
+      "hero_gallery_primary": "/generated/product-2/hero-gallery-primary.png",
+      "hero_gallery_benefits": "/generated/product-2/hero-gallery-benefits.png",
+      "hero_gallery_trust": "/generated/product-2/hero-gallery-trust.png",
+      "hero_gallery_facts": "/generated/product-2/hero-gallery-facts.png",
+      "ingredient_benefits": "/generated/product-2/ingredient-benefits.png",
+      "timeline_expectations": "/generated/product-2/timeline-expectations.png",
+      "comparison_table": "/generated/product-2/comparison-table.png"
+    },
+    "gallery": [
+      "/generated/product-2/hero-gallery-primary.png",
+      "/generated/product-2/hero-gallery-benefits.png",
+      "/generated/product-2/hero-gallery-trust.png",
+      "/generated/product-2/hero-gallery-facts.png",
+      "/generated/product-2/ingredient-benefits.png",
+      "/generated/product-2/comparison-table.png"
+    ]
+  },
+  "hero": {
+    "eyebrow": "For Adults 55+ Who Feel Heavier, Slower & Less Like Themselves",
+    "headline": "Your Gut Isn't Aging — It's Missing Something",
+    "subheadline": "Lumora Elderberry Softgels help support natural gut motility, daily regularity, and steady energy so your body can feel lighter and more resilient from within — naturally.",
+    "bullets": [
+      "Supports natural daily regularity",
+      "Helps restore gut comfort and lightness",
+      "Reinforces everyday immune defense",
+      "Promotes steady energy and vitality"
+    ],
+    "cta": "Feel Lighter in 14 Days"
+  },
+  "proof": [
+    "Standardized Elderberry Extract",
+    "No Artificial Additives",
+    "Gluten Free & Non-GMO",
+    "No Harsh Stimulants",
+    "Clean, Traceable Ingredients",
+    "FDA-Registered Facility"
+  ],
+  "testimonial": {
+    "quote": "My digestion feels calmer, I'm staying regular without effort, and I have more energy throughout the day. It feels like steady, gentle support — exactly what I needed.",
+    "name": "Jennifer R., United States"
+  },
+  "sections": [
+    {
+      "eyebrow": "The Real Reason Digestion Slows After 50",
+      "headline": "It's Not Just Age — Your Gut's Motility Signals Are Fading",
+      "body": "After 50, gut motility naturally slows as zinc levels decline and gut lining integrity weakens. Decades of processed food exposure compound this — emulsifiers in modern diets can quietly erode the gut barrier that controls bacterial signaling and natural regularity. Many people accept this slowdown as inevitable, but it may not be. Your gut may simply be missing the key compounds it needs to stay balanced.",
+      "bullets": [
+        "Declining zinc may disrupt gut lining integrity and immune balance",
+        "Processed food emulsifiers may erode the gut barrier over time",
+        "Weakened motility signals can contribute to sluggishness and bloating"
+      ]
+    },
+    {
+      "eyebrow": "Why Lumora Elderberry Works Differently",
+      "headline": "Ancient Berry. Modern Gut Science.",
+      "body": "Elderberry's quercetin and anthocyanins work alongside zinc and vitamin C to help replenish the gut-lining building blocks that naturally diminish with age. Quercetin supports healthy motility signaling while anthocyanins help maintain a balanced cellular response. Zinc supports gut lining integrity and natural immune defense. Together they address the underlying signals that may have been fading for years — without harsh stimulants.",
+      "bullets": [
+        "Quercetin supports natural gut motility signaling",
+        "Anthocyanins help maintain balanced cellular response",
+        "Zinc and Vitamin C support gut lining and immune resilience"
+      ]
+    },
+    {
+      "eyebrow": "What Lumora Elderberry Supports",
+      "headline": "Feel Light, Strong, and Steady Again",
+      "body": "Lumora Elderberry is designed to support the systems that help you feel balanced from within. Whether it's occasional digestive sluggishness, afternoon energy dips, or wanting to feel more resilient through seasonal changes — Lumora works with your body's natural wellness processes to help you reclaim the lightness and vitality of earlier years.",
+      "bullets": [
+        "Digestive comfort and natural regularity",
+        "Seasonal immune resilience and defense",
+        "Steady daily energy and reduced afternoon fatigue"
+      ]
+    },
+    {
+      "eyebrow": "What's Inside Every Softgel",
+      "headline": "One Berry. Three Powerful Actives.",
+      "body": "Lumora Elderberry keeps the formula focused — standardized elderberry extract (Sambucus nigra) paired with zinc citrate and buffered vitamin C. No fillers, no artificial additives. Elderberry's naturally occurring anthocyanins and quercetin work alongside bioavailable zinc and vitamin C to support gut wellness, immune defense, and daily vitality in one clean, easy-to-take softgel.",
+      "bullets": [
+        "Standardized Elderberry Extract — anthocyanins and quercetin",
+        "Zinc Citrate — supports gut lining integrity and immune cells",
+        "Buffered Vitamin C — antioxidant support for immune resilience"
+      ]
+    },
+    {
+      "eyebrow": "Is Lumora Elderberry Right for You?",
+      "headline": "Made for Anyone Ready to Feel Lighter From Within",
+      "body": "Lumora Elderberry is especially helpful for adults over 50 experiencing digestive slowdown, post-meal bloating, or declining energy. It's gentle on the stomach with no caffeine, no stimulants, and no synthetic additives — just daily plant-based support for the gut, immune system, and the vitality you want to reclaim.",
+      "bullets": [
+        "Adults 50+ with occasional sluggish digestion or bloating",
+        "Anyone seeking natural immune and gut wellness support",
+        "People who want steady energy without stimulants"
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "value": "52%",
+      "label": "Noticed improved digestive comfort within 14 days*"
+    },
+    {
+      "value": "61%",
+      "label": "Reported stronger immune resilience through seasonal changes*"
+    },
+    {
+      "value": "74%",
+      "label": "Experienced steadier energy and less afternoon fatigue*"
+    },
+    {
+      "value": "88%",
+      "label": "Felt lighter, calmer, and more balanced with regular use*"
+    }
+  ],
+  "comparison": {
+    "headline": "Why Lumora Outperforms Typical Gut and Immune Supplements",
+    "us": [
+      "Standardized elderberry extract with active plant compounds",
+      "Supports gut lining, motility, and immune defense together",
+      "No artificial additives, fillers, or stimulants"
+    ],
+    "them": [
+      "Low-potency elderberry syrups and gummies with added sugar",
+      "Isolated supplements that ignore the gut-immune connection",
+      "Artificial ingredients, fillers, and inconsistent sourcing"
+    ]
+  },
+  "timeline": [
+    {
+      "label": "Week 1",
+      "text": "You may begin to notice gentler digestion and a more comfortable gut as your body starts responding to elderberry's natural polyphenols and anthocyanins."
+    },
+    {
+      "label": "1 Month",
+      "text": "Energy may feel steadier and your digestive system may feel calmer and more responsive while everyday immune support continues to build."
+    },
+    {
+      "label": "2 Months",
+      "text": "Many users notice fewer seasonal disruptions, smoother daily regularity, and more consistent overall well-being."
+    },
+    {
+      "label": "3 Months",
+      "text": "Some users report greater daily confidence, more consistent vitality, and a lighter, more balanced feeling throughout the day."
+    }
+  ],
+  "offer": {
+    "headline": "Feel Lighter in 14 Days — or It's Free",
+    "body": "If you don't notice improved digestive comfort, regularity, or a lighter feeling within 30 days of delivery, return it within 30 days for a full refund. Free shipping from the USA. Try Lumora Elderberry completely risk-free today.",
+    "bullets": [
+      "30-day money-back guarantee",
+      "Free shipping from the USA",
+      "No stimulants, no artificial additives"
+    ],
+    "cta": "Claim Your Supply — Feel Lighter in 14 Days"
+  },
+  "faqs": [
+    {
+      "question": "Where can I buy Lumora Elderberry?",
+      "answer": "Lumora Elderberry is available exclusively through our official website. This lets us ensure the highest quality, freshness, and best pricing directly to you — no middlemen."
+    },
+    {
+      "question": "What ingredients are in Lumora Elderberry?",
+      "answer": "Each serving contains standardized elderberry extract (Sambucus nigra), bioavailable zinc citrate, and buffered vitamin C. No fillers, artificial additives, or preservatives — that's it."
+    },
+    {
+      "question": "Is it safe to take with my current medications?",
+      "answer": "Lumora Elderberry is generally considered safe for daily use. Always consult your healthcare provider before starting any new supplement, especially if you take medications or have existing health conditions."
+    },
+    {
+      "question": "Will I become dependent on it to feel normal?",
+      "answer": "Lumora Elderberry contains no laxatives or stimulants. It supports your body's own natural processes — helping restore balance rather than creating dependency."
+    },
+    {
+      "question": "How should I store Lumora Elderberry?",
+      "answer": "Store in a cool, dry place away from direct sunlight. Keep the container tightly closed when not in use to preserve freshness and potency."
+    },
+    {
+      "question": "How long before I notice results?",
+      "answer": "Many users begin to notice digestive comfort improvements within the first 1–2 weeks. Consistent daily use over 4–8 weeks supports more lasting gut and immune wellness."
+    }
+  ],
+  "image_prompts": {
+    "hero_gallery_primary": "Warm lifestyle photo of a woman in her early 60s in a sunlit kitchen, relaxed and smiling, holding a glass of water — conveying lightness, vitality, and everyday wellness; soft natural tones",
+    "hero_gallery_benefits": "Clean flat-lay of elderberry softgel capsules beside fresh dark elderberries, sliced lemon, and a zinc supplement on a light wood surface — natural, minimalist, health-focused aesthetic",
+    "hero_gallery_trust": "Close-up of a Lumora Elderberry softgel bottle with Non-GMO, Gluten Free, and FDA-Registered Facility badges visible — clean white background, trust-focused composition",
+    "hero_gallery_facts": "Infographic-style image showing three active compounds — elderberry anthocyanins, zinc, and vitamin C — with simple icons and clean typography on a soft white background",
+    "ingredient_benefits": "Artistic botanical illustration of elderberry branch with dark berries alongside zinc mineral and vitamin C citrus elements — educational, clean, warm purple and green palette",
+    "timeline_expectations": "Horizontal four-stage timeline graphic with milestone markers using soft purple and green brand colors, clean icons, warm lifestyle micro-images at each stage on a light background",
+    "comparison_table": "Side-by-side comparison table — Lumora column highlighted in soft purple with checkmarks, generic supplement column in muted gray with X marks — clean, modern, professional layout"
+  }
+}
