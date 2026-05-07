@@ -195,5 +195,12 @@
     "ingredient_benefits": "Artistic botanical illustration of elderberry branch with dark berries alongside zinc mineral and vitamin C citrus elements — educational, clean, warm purple and green palette",
     "timeline_expectations": "Horizontal four-stage timeline graphic with milestone markers using soft purple and green brand colors, clean icons, warm lifestyle micro-images at each stage on a light background",
     "comparison_table": "Side-by-side comparison table — Lumora column highlighted in soft purple with checkmarks, generic supplement column in muted gray with X marks — clean, modern, professional layout"
+  },
+  "tracking": {
+    "facebook_pixel": {
+      "version": 1,
+      "snippet": "<!-- Meta Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window, document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init', '26760913100185019');\nfbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\nsrc=\"https://www.facebook.com/tr?id=26760913100185019&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
+      "updated_at": "2026-05-06T11:03:13.608Z"
+    }
   }
 }

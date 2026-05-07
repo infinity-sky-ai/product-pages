@@ -1,16 +1,16 @@
 ## hero_gallery_primary
 
-Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.
+Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the exact product/package artwork, physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format and label artwork shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain the same stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, clean only the presentation: make it complete, straightened, centered, polished, and ecommerce-ready while preserving the same label layout, colors, icons, ingredient imagery, and visible text. Preserve visible product text, including product name, ingredient amount, serving count, product form, claims, icon labels, and supplement description. If tiny text is unreadable, preserve its placement and visual density rather than replacing it. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not rebrand, rename, redesign, relabel, recolor, translate, add Lumora branding, add a new logo, add new badges, add footer color blocks, or invent an alternate package design.
 
 Create a square 2000 x 2000 ecommerce supplement product graphic for Lumora Pumpkin Seed Oil.
 
 Composition:
 - Warm cream background with soft natural shadows, like sunlight through leaves.
 - Large front-facing product package on the left, occupying about 48% of the canvas height. Match the actual product type from the reference: stand-up supplement pouch or bag matching the uploaded product reference.
-- Product label should read: Lumora, Pumpkin Seed Oil, two daily softgels, 2 softgels.
+- Preserve the product package label exactly from the reference image; do not replace its visible label text with generated page copy.
 - On the right, place three vertically stacked benefit callouts with rust line icons.
-- Callout 1: Supports healthy kidney function daily
-- Callout 2: Promotes calm bladder & comfortable urinary flow
+- Callout 1: Helps maintain healthy kidney function daily
+- Callout 2: Supports calm bladder & comfortable urinary flow
 - Callout 3: Natural compounds for thicker, fuller-looking hair
 - Add small product-related ingredient visuals near the package only if relevant.
 
@@ -24,17 +24,17 @@ Do not include people, videos, review screenshots, watermarks, medical cure clai
 
 ## hero_gallery_benefits
 
-Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.
+Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the exact product/package artwork, physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format and label artwork shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain the same stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, clean only the presentation: make it complete, straightened, centered, polished, and ecommerce-ready while preserving the same label layout, colors, icons, ingredient imagery, and visible text. Preserve visible product text, including product name, ingredient amount, serving count, product form, claims, icon labels, and supplement description. If tiny text is unreadable, preserve its placement and visual density rather than replacing it. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not rebrand, rename, redesign, relabel, recolor, translate, add Lumora branding, add a new logo, add new badges, add footer color blocks, or invent an alternate package design.
 
 Create a square 2000 x 2000 benefit explainer graphic for Lumora Pumpkin Seed Oil.
 
 Composition:
 - Rich warm brown/rust gradient background.
-- Big headline at top: "Naturally Supports Kidney Health & Bladder Comfort From Within"
-- Subheadline below: "Two daily softgels deliver 3,000mg of cold-pressed pumpkin seed oil — helping your body maintain healthy urinary comfor..."
+- Big headline at top: "Naturally Strengthen Kidney Health & Bladder Comfort From Within"
+- Subheadline below: "Two daily softgels of cold-pressed pumpkin seed oil and saw palmetto may help support a calm bladder, comfortable urina..."
 - Three large cream line icons across the middle with labels:
-  1. Supports healthy kidney function daily
-  2. Promotes calm bladder & comfortable urinary flow
+  1. Helps maintain healthy kidney function daily
+  2. Supports calm bladder & comfortable urinary flow
   3. Natural compounds for thicker, fuller-looking hair
 - Product package partially visible at the bottom, centered, matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.
 
@@ -47,7 +47,7 @@ Do not include people or testimonial quotes.
 
 ## hero_gallery_trust
 
-Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.
+Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the exact product/package artwork, physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format and label artwork shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain the same stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, clean only the presentation: make it complete, straightened, centered, polished, and ecommerce-ready while preserving the same label layout, colors, icons, ingredient imagery, and visible text. Preserve visible product text, including product name, ingredient amount, serving count, product form, claims, icon labels, and supplement description. If tiny text is unreadable, preserve its placement and visual density rather than replacing it. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not rebrand, rename, redesign, relabel, recolor, translate, add Lumora branding, add a new logo, add new badges, add footer color blocks, or invent an alternate package design.
 
 Create a square 2000 x 2000 trust and quality graphic for Lumora Pumpkin Seed Oil.
 
@@ -62,7 +62,7 @@ Composition:
 - Below the cards, add 3-5 short trust bullets using small badge/check icons:
   - Non-GMO
   - Quality-Controlled Manufacturing
-  - Traditional Use
+  - Traditional Use Ingredients
 - Optional: small product package at bottom center, matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.
 
 Style:
@@ -74,13 +74,13 @@ Do not invent certifications. Only include a certification if it is present in t
 
 ## hero_gallery_facts
 
-Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.
+Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the exact product/package artwork, physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format and label artwork shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain the same stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, clean only the presentation: make it complete, straightened, centered, polished, and ecommerce-ready while preserving the same label layout, colors, icons, ingredient imagery, and visible text. Preserve visible product text, including product name, ingredient amount, serving count, product form, claims, icon labels, and supplement description. If tiny text is unreadable, preserve its placement and visual density rather than replacing it. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not rebrand, rename, redesign, relabel, recolor, translate, add Lumora branding, add a new logo, add new badges, add footer color blocks, or invent an alternate package design.
 
 Create a square 2000 x 2000 supplement facts and usage graphic for Lumora Pumpkin Seed Oil.
 
 Composition:
 - Rust background with subtle ingredient line art.
-- Top headline: "Start Your Daily Kidney & Bladder Support"
+- Top headline: "Feel Better — Or It's Free"
 - Large white supplement-facts style panel in the upper-middle.
 - Use these source supplement facts exactly. Preserve ingredient names, amounts, units, and daily values where provided:
 - Serving size: 2 softgels
@@ -96,8 +96,8 @@ Composition:
 - Other ingredients: Softgel (gelatin, glycerin, purified water), Natural carob.
 - Directions: Get 2 premium softgels. Grab your favorite drink. Consume once per day.
 - Bottom section with two or three usage callouts:
-  - Supports healthy kidney function daily
-  - Promotes calm bladder & comfortable urinary flow
+  - Helps maintain healthy kidney function daily
+  - Supports calm bladder & comfortable urinary flow
   - Natural compounds for thicker, fuller-looking hair
 
 Style:
@@ -109,7 +109,7 @@ Do not invent ingredient amounts. If exact amounts are missing, omit the amount 
 
 ## ingredient_benefits
 
-Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.
+Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the exact product/package artwork, physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format and label artwork shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain the same stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, clean only the presentation: make it complete, straightened, centered, polished, and ecommerce-ready while preserving the same label layout, colors, icons, ingredient imagery, and visible text. Preserve visible product text, including product name, ingredient amount, serving count, product form, claims, icon labels, and supplement description. If tiny text is unreadable, preserve its placement and visual density rather than replacing it. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not rebrand, rename, redesign, relabel, recolor, translate, add Lumora branding, add a new logo, add new badges, add footer color blocks, or invent an alternate package design.
 
 Create a square 2000 x 2000 ingredient benefits graphic for Lumora Pumpkin Seed Oil.
 
@@ -119,11 +119,11 @@ Composition:
 - Right of each icon: one large white benefit/ingredient line.
 - Text lines:
   1. 3,000mg cold-pressed pumpkin seed oil per serving
-  2. 300mg saw palmetto extract for enhanced urinary support
-  3. No fillers, artificial additives, or synthetic preservatives
-  4. Helps maintain steady energy & daily vitality
+  2. 300mg saw palmetto extract per serving
+  3. Free of soy, dairy, gluten, and tree nuts
+  4. Promotes steady energy & daily vitality
   5. Daily support
-- Bottom-right: realistic glossy capsules, powder scoop, drops, gummies, or product-relevant supplement form matching this product type: stand-up supplement pouch or bag matching the uploaded product reference.
+	- Bottom-right: show the referenced product package with its exact preserved label artwork, or show only product-relevant ingredients/softgels beside it. If the reference package is a pouch or bag, do not show a bottle, jar, tub, or alternate container.
 
 Style:
 - Match the Lumora orange ingredient card layout.
@@ -150,12 +150,12 @@ Layout:
 - Use small calendar icons next to each milestone label.
 
 Milestones:
-1. Week 1 — You may begin noticing calmer urinary function and fewer nighttime disruptions as your body starts adjusting to pumpkin...
-2. Month 1 — Energy feels steadier. Your bladder and urinary system may start feeling calmer and more comfortable through the demand...
-3. Months 2–3 — Many users notice thicker-looking hair, smoother urinary comfort, and more consistent daily well-being with continued u...
-4. Month 6+ — With long-term consistent use, your kidney and urinary systems work in better sync — supporting vitality, focus, and re...
-5. Month 6+ — With long-term consistent use, your kidney and urinary systems work in better sync — supporting vitality, focus, and re...
-6. Month 6+ — With long-term consistent use, your kidney and urinary systems work in better sync — supporting vitality, focus, and re...
+1. Week 1 — You may begin to notice calmer urinary function, fewer nighttime disruptions, and a more comfortable system as your bod...
+2. Month 1 — Energy feels steadier and your bladder and urinary system may start feeling calmer and more responsive — with fewer int...
+3. Months 2–3 — Many users notice thicker-looking hair, smoother urinary comfort, and more consistent well-being. Clarity and focus beg...
+4. Month 6+ — Kidney and urinary systems work in better sync. Overall vitality, focus, and calmness continue to deepen with daily use...
+5. Month 6+ — Kidney and urinary systems work in better sync. Overall vitality, focus, and calmness continue to deepen with daily use...
+6. Month 6+ — Kidney and urinary systems work in better sync. Overall vitality, focus, and calmness continue to deepen with daily use...
 
 Style:
 - Minimal, clean, mostly white space.
@@ -167,7 +167,7 @@ Do not include product photos, people, or disease/cure claims.
 
 ## comparison_table
 
-Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.
+Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the exact product/package artwork, physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format and label artwork shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain the same stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, clean only the presentation: make it complete, straightened, centered, polished, and ecommerce-ready while preserving the same label layout, colors, icons, ingredient imagery, and visible text. Preserve visible product text, including product name, ingredient amount, serving count, product form, claims, icon labels, and supplement description. If tiny text is unreadable, preserve its placement and visual density rather than replacing it. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not rebrand, rename, redesign, relabel, recolor, translate, add Lumora branding, add a new logo, add new badges, add footer color blocks, or invent an alternate package design.
 
 Create a vertical 1600 x 2000 comparison table infographic.
 
@@ -178,22 +178,22 @@ Layout:
 - Warm cream background.
 - Centered comparison table with thin rust border.
 - Three columns:
-  Left: Lumora with product package image matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.
+	  Left: Lumora with the exact referenced product package image matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.
   Center: dark rust column titled "Which delivers more real benefits?"
   Right: "Typical Pumpkin Seed Oil Supplements" with a generic plain white bottle.
 - Add a circular "VS" badge near the top center.
 - Rows:
-  1. 3,000mg cold-pressed pumpkin seed oil per serving
-  2. Paired with saw palmetto for enhanced urinary support
-  3. No artificial additives, fillers, or synthetic preservatives
-  4. Helps maintain steady energy & daily vitality
+  1. Cold-pressed pumpkin seed oil + saw palmetto at potent doses
+  2. Supports kidney wellness, bladder comfort, hair, and energy together
+  3. No artificial additives, fillers, or synthetic ingredients
+  4. Promotes steady energy & daily vitality
   5. Daily support
   6. Daily support
   7. Daily support
   8. Daily support
-  9. Low-potency formulas with token doses
-  10. Artificial ingredients and unnecessary fillers
-  11. Missing key plant-based urinary support compounds
+  9. Low-potency formulas with undisclosed sourcing
+  10. Targets one symptom while ignoring connected imbalances
+  11. Often contains artificial additives and unnecessary fillers
 - Use rust check icons for Lumora advantages and red X icons for typical supplement disadvantages.
 - For negative rows, Lumora should show red X and typical supplements should show rust check only if the statement is about a typical drawback.
 
@@ -206,7 +206,7 @@ Do not use a real competitor brand name. Use only generic "Typical Pumpkin Seed 
 
 ## comparison_table_mobile
 
-Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain a stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, reconstruct it as a clean premium ecommerce product with the full package visible, straightened, centered, and polished. Preserve factual visible product text where appropriate, including product name, ingredient amount, serving count, and product form. Replace only non-Lumora brand marks with Lumora branding. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. The generated package must be redesigned as Lumora Pumpkin Seed Oil in Lumora branding and the page palette. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not copy competitor logos, trademarks, exact label artwork, badges, or brand colors from the reference.
+Product reference: use /generated/product-24/manual-product-reference.png as the source of truth for the exact product/package artwork, physical package type, silhouette, proportions, format, and front-facing presentation. Preserve the same package format and label artwork shown in the reference. If the reference is a stand-up pouch or bag, the generated product must remain the same stand-up pouch or bag. If it is a bottle, jar, tub, box, tube, or dropper, keep that same format. If the reference photo is wrinkled, cropped, low resolution, angled, or poorly lit, clean only the presentation: make it complete, straightened, centered, polished, and ecommerce-ready while preserving the same label layout, colors, icons, ingredient imagery, and visible text. Preserve visible product text, including product name, ingredient amount, serving count, product form, claims, icon labels, and supplement description. If tiny text is unreadable, preserve its placement and visual density rather than replacing it. If the reference screenshot includes surrounding text, icons, benefit panels, badges, or layout graphics outside the package, ignore those and use only the package/product form as visual reference. Expected package type: stand-up supplement pouch or bag matching the uploaded product reference. Do not convert the reference package into another format. Do not rebrand, rename, redesign, relabel, recolor, translate, add Lumora branding, add a new logo, add new badges, add footer color blocks, or invent an alternate package design.
 
 Create a phone-optimized vertical comparison infographic.
 
@@ -217,18 +217,18 @@ Layout:
 - Tall narrow mobile composition, designed to be readable at phone width.
 - Warm cream background with rust accents and clean rounded cards.
 - Stack the comparison instead of using a wide desktop table.
-- Top card: Lumora product package image matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.
+	- Top card: exact referenced product package image matching the reference package type: stand-up supplement pouch or bag matching the uploaded product reference.
 - Second card: "Typical Pumpkin Seed Oil Supplements" with a generic plain white bottle.
 - Add a clear "VS" badge between the two cards.
 - Use grouped benefit rows with large readable text:
-  1. 3,000mg cold-pressed pumpkin seed oil per serving
-  2. Paired with saw palmetto for enhanced urinary support
-  3. No artificial additives, fillers, or synthetic preservatives
-  4. Helps maintain steady energy & daily vitality
+  1. Cold-pressed pumpkin seed oil + saw palmetto at potent doses
+  2. Supports kidney wellness, bladder comfort, hair, and energy together
+  3. No artificial additives, fillers, or synthetic ingredients
+  4. Promotes steady energy & daily vitality
   5. Daily support
-  6. Low-potency formulas with token doses
-  7. Artificial ingredients and unnecessary fillers
-  8. Missing key plant-based urinary support compounds
+  6. Low-potency formulas with undisclosed sourcing
+  7. Targets one symptom while ignoring connected imbalances
+  8. Often contains artificial additives and unnecessary fillers
 - Use rust check icons for Lumora advantages and red X icons for typical supplement drawbacks.
 
 Style:
